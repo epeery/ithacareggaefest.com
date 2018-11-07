@@ -2,7 +2,7 @@
 title: Ithaca Reggae Fest
 timezone: America/New_York
 collections:
-  artist:
+  artists:
     title: Artists
     output: true
   posts:
