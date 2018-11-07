@@ -1,7 +1,6 @@
 ---
 title: Clinton Fearon
 date: 2018-11-07 18:01:00 -05:00
-published: false
 Field name:
   name: Clinton Fearon
 layout: artist
