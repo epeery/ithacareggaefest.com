@@ -4,6 +4,7 @@ date: 2018-11-07 18:01:00 -05:00
 published: false
 Field name:
   name: Clinton Fearon
+layout: artist
 ---
 
 ![01 Clinton Fearon _ Boogie Brown Band.jpg](/uploads/01%20Clinton%20Fearon%20_%20Boogie%20Brown%20Band.jpg)
