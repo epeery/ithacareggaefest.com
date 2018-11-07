@@ -1,6 +1,8 @@
 ---
 title: Clinton Fearon
 date: 2018-11-07 18:01:00 -05:00
+Field name:
+  name: Clinton Fearon
 ---
 
 ![01 Clinton Fearon _ Boogie Brown Band.jpg](/uploads/01%20Clinton%20Fearon%20_%20Boogie%20Brown%20Band.jpg)
