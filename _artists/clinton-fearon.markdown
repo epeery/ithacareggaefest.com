@@ -1,7 +1,7 @@
 ---
 title: Clinton Fearon
 date: 2018-11-07 18:01:00 -05:00
-Artist Info:
+Info:
   name: Clinton Fearon
 layout: artist
 ---
