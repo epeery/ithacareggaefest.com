@@ -1,0 +1,46 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3532176, 2018-02-24T15:16:06-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: TTTravels-Black by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-travels/black/
+ * 
+ * Webfont: TTTravels-Medium by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-travels/medium/
+ * 
+ * Webfont: TTTravels-Regular by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-travels/regular/
+ * 
+ * Webfont: TTTravels-Bold by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-travels/bold/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3532176
+ * Licensed pageviews: 20,000
+ * Webfonts copyright: Copyright (c) 2017 by TypeType. Designer Ivan Gladkikh, technical designers Victoria Usmanova, Nadyr Rakhimov. All rights reserved.
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("/count/35e590");
+
+  
+@font-face {font-family: 'TTTravels-Black';src: url('webfonts/35E590_0_0.eot');src: url('webfonts/35E590_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35E590_0_0.woff2') format('woff2'),url('webfonts/35E590_0_0.woff') format('woff'),url('webfonts/35E590_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TTTravels-Medium';src: url('webfonts/35E590_1_0.eot');src: url('webfonts/35E590_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35E590_1_0.woff2') format('woff2'),url('webfonts/35E590_1_0.woff') format('woff'),url('webfonts/35E590_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TTTravels-Regular';src: url('webfonts/35E590_2_0.eot');src: url('webfonts/35E590_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35E590_2_0.woff2') format('woff2'),url('webfonts/35E590_2_0.woff') format('woff'),url('webfonts/35E590_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TTTravels-Bold';src: url('webfonts/35E590_3_0.eot');src: url('webfonts/35E590_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35E590_3_0.woff2') format('woff2'),url('webfonts/35E590_3_0.woff') format('woff'),url('webfonts/35E590_3_0.ttf') format('truetype');}
+ 

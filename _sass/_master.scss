@@ -1,0 +1,43 @@
+@import "fonts";
+@import url('https://fonts.googleapis.com/css?family=Oswald:700');
+
+// Colors
+$yellow: #FFBE0B;
+$red: #FF0046;
+$green: #388659;
+$dark-blue: #003660;
+$blue: #62C7CC;
+$white: #FFFFFF;
+$black: #000000;
+
+// Fonts
+$font-regular: TTTravels-Regular;
+$font-medium: TTTravels-Medium;
+$font-bold: TTTravels-Bold;
+$font-black: TTTravels-Black;
+
+$font-header: 'Oswald', sans-serif;
+
+// Timings
+$standard: cubic-bezier(0.4, 0.0, 0.2, 1);
+$deceleration: cubic-bezier(0.0, 0.0, 0.2, 1);
+$acceleration: cubic-bezier(0.4, 0.0, 1, 1);
+$sharp: cubic-bezier(0.4, 0.0, 0.6, 1);
+
+// Dimensions
+$nav-height: 4.5rem;
+
+body, html {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: $font-medium;
+  overflow-x: hidden;
+  background-color: $white;
+}
+
+@media only screen and (max-width: 470px) {
+    body, html {
+      font-size: 3vw;
+    }
+}

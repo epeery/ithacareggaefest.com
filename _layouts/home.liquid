@@ -3,8 +3,578 @@
   <head>
     <meta charset="utf-8">
     <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="./assets/styles/default-skin/default-skin.css">
+    <link rel="stylesheet" href="./assets/styles/main.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <![endif]-->
   </head>
   <body>
-    <h1>{{ site.title }}</h1>
+    <main>
+
+      <!-- <div class="splash">
+        <div class="splash-title-container">
+          <div class="splash-title">
+            <h1>Ithaca</h1>
+            <h1>Reggae</h1>
+            <h1>Fest</h1>
+          </div>
+        </div>
+        <div class="splash-subtitle">
+          <div>June 22 - 24, 2018</div>
+        </div>
+      </div> -->
+
+      {% include nav.liquid %}
+
+      {% include header-slider.liquid %}
+
+
+      <section class="line-up">
+        <h1>Line-Up</h1>
+        <div class="line-up-artists">
+          <a href="./clinton-fearon.html">
+            <h1 class="clinton-fearon">Clinton <br/> Fearon</h1>
+            <img src="./assets/images/bands/01 Clinton Fearon _ Boogie Brown Band.jpg" alt="">
+          </a>
+          <a href="./sister-carol.html">
+            <h1 class="sister-carol">Sister <br/> Carol</h1>
+            <img src="./assets/images/bands/02 Sister Carol.JPG" alt="">
+          </a>
+          <a href="./the-meditations.html">
+            <h1 class="the-meditations">The Meditations</h1>
+            <img src="./assets/images/bands/03 The Meditations.png" alt="">
+          </a>
+          <a href="./double-tiger.html">
+            <h1 class="double-tiger">Double <br/> Tiger</h1>
+            <img src="./assets/images/bands/04 Double Tiger.jpg" alt="">
+          </a>
+          <a href="./mosaic-foundation.html">
+            <h1 class="mosaic-foundation">Mosaic Foundation</h1>
+            <img src="./assets/images/bands/05 Mosaic Foundation.jpg" alt="">
+          </a>
+          <a href="./big-mean-dub-machine.html">
+            <h1 class="big-mean-dub-machine">Big Mean Dub Machine</h1>
+            <img src="./assets/images/bands/06 Big Mean Dub Machine.jpg" alt="">
+          </a>
+          <a href="./kevin-kinsella.html">
+            <h1 class="kevin-kinsella">Kevin <br/> Kinsella</h1>
+            <img src="./assets/images/bands/07 Kevin Kinsella.jpg" alt="">
+          </a>
+          <a href="./root-shock.html">
+            <h1 class="root-shock">Root Shock</h1>
+            <img src="./assets/images/bands/08 Root Shock.jpg" alt="">
+          </a>
+          <a href="./thousands-of-one.html">
+            <h1 class="thousands-of-one">Thousands Of One</h1>
+            <img src="./assets/images/bands/09 Thousands Of One.jpg" alt="">
+          </a>
+          <a href="./the-analogue-sons.html">
+            <h1 class="the-analogue-sons">The Analogue Sons</h1>
+            <img src="./assets/images/bands/10 The Analogue Sons.jpg" alt="">
+          </a>
+          <a href="./crucial-reggae-social-club.html">
+            <h1 class="crucial-reggae-social-club">Crucial Reggae Social Club</h1>
+            <img src="./assets/images/bands/11 Crucial Reggae Social Club.jpg" alt="">
+          </a>
+          <a class="no-bio">
+            <h1 class="rebel-fire">Rebel Fire</h1>
+            <img src="./assets/images/bands/12 Rebel Fire.jpg" alt="">
+          </a>
+          <a href="./dj-kamau-preston.html">
+            <h1 class="dj-kamau-preston">DJ Kamau Preston</h1>
+            <img src="./assets/images/bands/13 DJ Kamau Preston.jpg" alt="">
+          </a>
+          <a href="./dj-hameen.html">
+            <h1 class="dj-hameen">DJ ha-MEEN</h1>
+            <img src="./assets/images/bands/14 DJ haMEEN.jpg" alt="">
+          </a>
+          <a href="./makeda-cheatom.html">
+            <h1 class="makeda-cheatom">Makeda Cheatom</h1>
+            <img src="./assets/images/bands/15 Makeda Cheatom.jpg" alt="">
+          </a>
+        </div>
+      </section>
+
+      <section class="mission">
+        <img class="mission-logo" src="./assets/images/irf-logo-full.svg" alt="">
+        <h1 class="mission-header">Our Mission</h1>
+        <p>Ithaca Reggae Fest is dedicated to the protection of Cayuga Lake through a vibrant celebration of Ithaca’s legendary reggae community and its history. With support from over 3,500 festival attendees and all of our sponsors in 2017, the Friends of Cayuga Lake made a $7,500 donation to support the purchase of a new boat for the Cayuga Lake Floating Classroom, which is now Discover Cayuga Lake. They’re fostering future stewards of Cayuga Lake by providing hands-on learning opportunities in the interest of sustaining our Finger Lakes waterways for future generations. #Reggae4Cayuga </p>
+        <div class="bg">
+          <img class="bg-cloud-01" src="./assets/images/cloud-01.svg" alt="">
+          <img class="bg-cloud-02" src="./assets/images/cloud-02.svg" alt="">
+          <img class="bg-tree-01" src="./assets/images/tree.svg" alt="">
+          <img class="bg-tree-02" src="./assets/images/tree.svg" alt="">
+          <img class="bg-grass" src="./assets/images/grass.svg" alt="">
+        </div>
+      </section>
+      <section class="schedule">
+        <h1>Schedule</h1>
+
+        <p class="table-header">Event dates, pre-parties, after-parties, venue locations, etc.</p>
+        <table>
+           <tr>
+             <td>Festival Kick Off Party @ <a href="http://thehaunt.com/" target="_blank" rel="noreferrer noopener">The Haunt</a></td>
+             <td>June 22</td>
+           </tr>
+           <tr>
+             <td>(702 Willow Ave, Ithaca, NY 14850)</td>
+           </tr>
+           <tr>
+             <td>Doors: 6pm, Show: 7pm</td>
+           </tr>
+           <td>7:00pm: DJ ha-MEEN</td>
+           <tr>
+           </tr>
+           <td>7:30pm: The Analogue Sons</td>
+           <tr>
+           </tr>
+           <td>8:30pm: DJ ha-MEEN</td>
+           <tr>
+           </tr>
+           <td>9:00pm: Root Shock</td>
+           <tr>
+           </tr>
+           <td>10:30pm: DJ ha-MEEN</td>
+           <tr>
+           </tr>
+           <td>11:00pm: Big Mean Dub Machine </td>
+           <tr>
+           </tr>
+        </table>
+
+        <table>
+           <tr>
+             <td>Celebration @ <a href="https://maps.google.com/?q=1+James+L+Gibbs+Dr,+Ithaca,+NY+14850&entry=gmail&source=g" target="_blank" rel="noopener noreferrer">Stewart Park</a></td>
+             <td>June 23</td>
+           </tr>
+           <tr>
+             <td>(1 James L Gibbs Dr, Ithaca, NY 14850)</td>
+           </tr>
+           <td>Gate: 10:30am, Show: 11am</td>
+           <tr>
+           </tr>
+           <td>11:00am: Cayuga Nation Cultural Presentation w/ singing, dancing, & speakers (Cayuga Stage)</td>
+           <tr>
+           </tr>
+           <td>12:00pm: Thousands of One (Main Stage)</td>
+           <tr>
+           </tr>
+           <td>12:50pm: Rebel Fire (Education Village)</td>
+           <tr>
+           </tr>
+           <td>1:20pm: Crucial Reggae Social Club (Main Stage)</td>
+           <tr>
+           </tr>
+           <td>2:00pm: DJ Kamau Preston (Leslie Puryear Stage)</td>
+           <tr>
+           </tr>
+           <td>2:30pm: Mosaic Foundation (Main Stage)</td>
+           <tr>
+           </tr>
+           <td>3:20pm: Sandra Steingarber (Leslie Puryear Stage)</td>
+           <tr>
+           </tr>
+           <td>3:50pm: Double Tiger (Main Stage)</td>
+           <tr>
+           </tr>
+           <td>4:50pm: Mother Makeda & Mike Judah (Leslie Puryear Stage)</td>
+           <tr>
+           </tr>
+           <td>5:20pm: The Meditations (Main Stage)</td>
+           <tr>
+           </tr>
+           <td>6:25pm: DJ Kamau Preston (Leslie Puryear Stage)</td>
+           <tr>
+           </tr>
+           <td>6:55pm: Sister Carol (Main Stage)</td>
+           <tr>
+           </tr>
+           <td>8:00pm: DJ Kamau Preston (Leslie Puryear Stage)</td>
+           <tr>
+           </tr>
+           <td>8:30pm: Clinton Fearon & Boogie Brown Band (Main Stage)</td>
+           <tr>
+           </tr>
+           <tr>
+             <td>Emcees: Mother Makeda & Mike Judah (all day)</td>
+           </tr>
+        </table>
+
+        <table>
+           <tr>
+             <td>After Party @ <a href="http://thehaunt.com/" target="_blank" rel="noreferrer noopener">The Haunt</a></td>
+             <td>June 23</td>
+           </tr>
+           <tr>
+             <td>(702 Willow Ave, Ithaca, NY 14850)</td>
+           </tr>
+           <tr>
+             <td>Doors: 10pm, Show: 11pm</td>
+           </tr>
+           <td>11:00pm: Double Tiger Sound System (w/s/g Singers)</td>
+           <tr>
+           </tr>
+        </table>
+
+        <table>
+           <tr>
+             <td>Acoustic Afternoon @ <a href="https://www.ithacabeer.com/" target="_blank" rel="noreferrer noopener">Ithaca Beer Co.</a></td>
+             <td>June 24</td>
+           </tr>
+           <tr>
+             <td>(122 Ithaca Beer Dr, Ithaca, NY 14850)</td>
+           </tr>
+           <tr>
+             <td>Doors: 1pm, Show: 2:00pm</td>
+           </tr>
+           <td>2:00pm Kevin Kinsella</td>
+           <tr>
+           </tr>
+           <td>3:00pm Clinton Fearon </td>
+           <tr>
+           </tr>
+        </table>
+      </section>
+
+      <section class="information">
+        <h1>Information</h1>
+        <p></p>
+
+        <h2>Education Village</h2>
+        <p>Education Village is an aggregation of many of the dedicated water protectors, scientists, and community activists working to protect and restore the health of Cayuga Lake. We will offer interactive activities while sharing essential information inviting you to join our mission for a healthy, cleaner Cayuga Lake. Water is life and we are all stewards of our water both here in Ithaca, NY and around the world. Collectively we can make a difference.</p>
+
+        <div class="sponsor-grid">
+          <a href="http://www.cayugalake.org/" target="_blank" rel="noreferrer noopener" class="sponsor cayuga-watershed-network"></a>
+          <a href="http://ccetompkins.org/environment/invasive-nuisance-species/aquatic-invasives/hydrilla/fighting-hydrilla-in-the-cayuga-lake-watershed/hydrilla-task-force-of-the-cayuga-lake-watershed" target="_blank" rel="noreferrer noopener" class="sponsor hydrilla-task-force"></a>
+          <a href="http://www.communityscience.org/" target="_blank" rel="noreferrer noopener" class="sponsor community-science-institute"></a>
+          <a href="https://www.discovercayugalake.org/" target="_blank" rel="noreferrer noopener" class="sponsor discover-cayuga-lake"></a>
+          <a href="http://www.ehaec.com/" target="_blank" rel="noreferrer noopener" class="sponsor ehaec"></a>
+          <a href="https://newrootsschool.org/" target="_blank" rel="noreferrer noopener" class="sponsor new-roots-charter-school"></a>
+          <a href="http://www.fllt.org/" target="_blank" rel="noreferrer noopener" class="sponsor fllt"></a>
+          <a href="https://plastictides.org/" target="_blank" rel="noreferrer noopener" class="sponsor plastic-tides"></a>
+          <a href="https://www.friendsofstewartpark.org/" target="_blank" rel="noreferrer noopener" class="sponsor friends-of-stewart-park"></a>
+          <a href="http://cayugawaterfronttrail.com/" target="_blank" rel="noreferrer noopener" class="sponsor cayuga-waterfront-trail"></a>
+          <a href="http://cleancayugalake.org/" target="_blank" rel="noreferrer noopener" class="sponsor clean-cayuga-lake"></a>
+          <a href="https://soilhealth.cals.cornell.edu/ " target="_blank" rel="noreferrer noopener" class="sponsor cshl"></a>
+        </div>
+        <p></p>
+        <p></p>
+
+        <h2>Wellness Village</h2>
+
+        <p>Wellness Village is sponsored by <a href="http://www.mightyyoga.com/" target="_blank" rel="noreferrer noopener">Mighty Yoga</a> and Greenstar Co-op and managed by Astrid Jirka of <a href="https://www.govahana.com/yogafortheearth/" target="_blank" rel="noreferrer noopener">Yoga for the Earth.</a> In 2017 Astrid led 108 Sun Salutations and Mighty Yoga led Michael Franti’s pre-show Yoga class on the shores of Cayuga Lake. With inspiration from both events we’re expanding to offer wellness activities throughout the day under the beautiful willow trees in Stewart Park. Your well being at the festival is important to us we encourage you to take a break during the day to enjoy a yoga class, a meditation, or a free massage from <a href="https://www.flsm.edu/" rel="noreferrer noopener">The Finger Lakes School of Massage.</a></p>
+        <p></p>
+
+        <table class="wellness-table">
+           <tr>
+             <td>9:30am  -  SUP Yoga (Stand Up Paddleboard) - Sophie Trowbridge (Meet at Paddle-n-More)</td>
+           </tr>
+           <tr>
+             <td>1pm - 108 Sun Salutations-Astrid Jirka w/ Yoga for the Earth</td>
+           </tr>
+           <tr>
+             <td>3pm - Acro Yoga - Lisa Trent, Alex Crenshaw and Bob Rossi</td>
+           </tr>
+           <tr>
+             <td>3pm - Little Buddhas Yoga ages 3-12, with Dianne Hamilton and Devon Ceanna (workshop will take place in the Youth Village)</td>
+           </tr>
+           <tr>
+             <td>5pm - Cool Your Jets Yoga- with Hilary Davis and Marcy Little</td>
+           </tr>
+        </table>
+
+        <p></p>
+        <p></p>
+
+
+        <h2>Youth Village</h2>
+
+        <p>Youth Village is created and sponsored by Child Development Council. Please bring your junior reggae fans to the festival and enjoy some of our many engaging activities for youth. We’ll have festival crafts, face painting, lawn games, bubble play, and more. Yoga and percussion games will happen throughout the day. And if you need a place to unwind with your littles, we’ll have a dedicated area with a cozy book nook, simple toys, and a nursing area for Mamas. All youth under 16 are FREE at the festival!</p>
+        <p></p>
+        <p></p>
+
+        <h2>International Food Village</h2>
+        <div class="sponsor-grid">
+          <a href="https://www.facebook.com/silofoodtruck/" target="_blank" rel="noreferrer noopener" class="sponsor silo-food-truck"></a>
+          <a href="http://www.ilovethegoodtruck.com/" target="_blank" rel="noreferrer noopener" class="sponsor the-good-truck"></a>
+          <a href="https://www.monksonthecommons.com/" target="_blank" rel="noreferrer noopener" class="sponsor monks-on-the-commons"></a>
+          <a href="http://www.lunastreetfood.com/" target="_blank" rel="noreferrer noopener" class="sponsor luna-street-food"></a>
+          <a target="_blank" rel="noreferrer noopener" class="sponsor trini-style"></a>
+          <a href="https://www.facebook.com/francoandsalvosithacany/" target="_blank" rel="noreferrer noopener" class="sponsor francos-pizzeria"></a>
+          <a href="https://www.facebook.com/CongoSquareIthaca/" target="_blank" rel="noreferrer noopener" class="sponsor congo-square"></a>
+          <a href="https://gimmecoffee.com/" target="_blank" rel="noreferrer noopener" class="sponsor gimme-coffee"></a>
+          <a href="http://cayugalakecreamery.com/" target="_blank" rel="noreferrer noopener" class="sponsor cayuga-lake-creamery"></a>
+        </div>
+        <p></p>
+        <div class="guidelines">
+          <div class="guidelines-content">
+            <h1>Festival Guidelines</h1>
+            <ul>
+              <li>Positive vibes highly recommended (all day every day)</li>
+              <li>ZERO PLASTIC allowed (Thanks being part of the PLASTIC FREE revolution)</li>
+              <li>Reusable bottles recommended (FREE WATER)</li>
+              <li>Kids under 16 are FREE at the Stewart Park Venue (Family vibes all day)</li>
+              <li>Coolers allowed and will be searched on your way into the Stewart Park Venue (No Outside Alcohol or Plastic Bottles)</li>
+              <li>No outside alcohol inside the gate of the Stewart Park Venue (alcohol is allowed outside the gate in Stewart Park)</li>
+              <li>No plastic bottles allowed inside the gate of the Stewart Park Venue</li>
+              <li>Folding chairs are allowed in the Stewart Park Venue (chairs will be searched at the gate)</li>
+              <li>Folding umbrellas are allowed at the Stewart Park Venue (umbrellas will be searched at the gate)</li>
+              <li>Onsite port-a-johns will be available in the Stewart Park Venue</li>
+              <li>No dogs allowed in the Stewart Park Venue (dogs are allowed outside the gate in Stewart Park)</li>
+              <li>No weapons, fireworks or explosives of any kind allowed (all bags will be searched)</li>
+            </ul>
+          </div>
+        </div>
+          <div class="transportation">
+          <h1>Transportation & Parking</h1>
+          <div class="transportation-content">
+            <p class="table-header">Parking Lots (follow the festival parking signs)</p>
+            <ul>
+              <li>Lot #1 Boynton Middle School (1601 N Cayuga St, Ithaca, NY 14850) Distance = 0.5 miles</li>
+              <li>Lot #2 Ithaca High School (1401 N Cayuga St, Ithaca, NY 14850) Distance = 0.7 miles</li>
+              <li>TCAT Route (13X & 13) will pick you up behind the IHS football field by the “Festival Bus Stop” sign. The same route (13X & 13) stops downtown at the Green St. Garage (126 E. Green Street) and Seneca St. Garage (215 N. Tioga Street), and multiple other stops throughout the downtown area. FREE TCAT FARE for anyone attending Ithaca Reggae Fest!</li>
+              <li>LimeBike will also have an abundance of LimeBike’s available in both parking lots for you to ride to Stewart Park. You can park them in the LimeBike sponsored Bike Valet, where all bikes are welcome. After the festivities are over you can ride a LimeBike back to your car, back to your house, or ride one to the after party at The Haunt (best option).</li>
+            </ul>
+          </div>
+
+        </div>
+      </section>
+      <section class="media">
+        <h1>Media</h1>
+        <p></p>
+        <p></p>
+
+        <h2>Ithaca Reggae Fest Playlist</h2>
+        <iframe src="https://open.spotify.com/embed/user/85sesd9ls75zm0mzm9dncx3rt/playlist/3HFTMNsgvLf9T6IqEvgXy4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+        <h2>2017 Media</h2>
+        <p>Rootfire: <a href="https://rootfire.net/generation-consciousness-at-ithaca-reggae-fest/" target="_blank" rel="noreferrer noopener">Generation Consciousness at Ithaca Reggae Fest</a></p>
+        <p>Live For Live Music: <a href="https://liveforlivemusic.com/news/first-annual-ithaca-reggae-fest/" target="_blank" rel="noreferrer noopener">Ithaca Reggae Fest To Tap John Brown’s Body And More...</a></p>
+        <p>Ithaca Journal: <a href="https://www.ithacajournal.com/story/entertainment/2017/06/20/ithaca-reggae-fest-debut-stewart-park/103045030/" target="_blank" rel="noreferrer noopener">Ithaca Reggae Fest to debut at Stewart Park</a></p>
+        <p>Rootfire: <a href="https://rootfire.net/past-future-ithaca-reggae-festival-ticket-giveaway/" target="_blank" rel="noreferrer noopener">Past Future - Ithaca Reggae Fest</a></p>
+
+        <h2>2018 Media</h2>
+        <p>(coming soon)</p>
+
+        <h2>2017 Recap Video</h2>
+        <video src="./assets/videos/irf_2017.mov" controls></video>
+        <h2>Photo Gallery</h2>
+
+        <div class="gallery"></div>
+      </section>
+      <section class="sponsors">
+        <h1>Sponsors</h1>
+
+        <h2>Music Sponsors</h2>
+        <a href="http://thehaunt.com/" target="_blank" rel="noreferrer noopener" class="sponsor the-haunt"></a>
+
+        <h2>Festival Sponsors</h2>
+        <div class="sponsor-grid">
+          <a href="https://www.marriott.com/hotels/travel/ithmc-ithaca-marriott-downtown-on-the-commons/" target="_blank" rel="noreferrer noopener" class="sponsor marriott "></a>
+          <a href="https://www.elmirasavingsbank.com/Default.aspx" target="_blank" rel="noreferrer noopener" class="sponsor esb"></a>
+          <a href="https://www.ithacabeer.com/" target="_blank" rel="noreferrer noopener" class="sponsor ithaca-beer"></a>
+          <a href="http://www.greenscenelg.com/" target="_blank" rel="noreferrer noopener" class="sponsor green-scene"></a>
+          <a href="https://cspmanagement.com/" target="_blank" rel="noreferrer noopener" class="sponsor csp"></a>
+          <a href="http://www.mightyyoga.com/" target="_blank" rel="noreferrer noopener" class="sponsor mighty-yoga"></a>
+          <a href="https://renovussolar.com/" target="_blank" rel="noreferrer noopener" class="sponsor renovus"></a>
+          <a href="https://www.limebike.com/" target="_blank" rel="noreferrer noopener" class="sponsor limebike"></a>
+          <a href="https://www.flsm.edu/" target="_blank" rel="noreferrer noopener" class="sponsor flsm"></a>
+          <a href="http://www.lunastreetfood.com/" target="_blank" rel="noreferrer noopener" class="sponsor luna-street-food"></a>
+          <a href="https://www.grassrootsfest.org/" target="_blank" rel="noreferrer noopener" class="sponsor grassroots"></a>
+          <a href="https://www.childdevelopmentcouncil.org/" target="_blank" rel="noreferrer noopener" class="sponsor child-development-council"></a>
+          <a href="http://www.casitapolaris.com/" target="_blank" rel="noreferrer noopener" class="sponsor casita-del-paloris"></a>
+          <a href="https://greenstar.coop/" target="_blank" rel="noreferrer noopener" class="sponsor greenstar"></a>
+          <a href="http://www.vivataqueria.com/" target="_blank" rel="noreferrer noopener" class="sponsor viva"></a>
+          <a href="http://guayaki.com/" target="_blank" rel="noreferrer noopener" class="sponsor guayaki"></a>
+
+        </div>
+
+      </section>
+
+      <section class="tickets-section">
+        <div class="tickets">
+          <h1>Tickets</h1>
+          <p class="table-header">Day Pass*  (park only)</p>
+          <table>
+           <tr>
+             <td>$15 Early Bird</td>
+             <td>March 1 - April 1</td>
+           </tr>
+           <tr>
+             <td>$25 Pre Sale</td>
+             <td>Ends June 21</td>
+           </tr>
+           <tr>
+             <td>$35 Gate</td>
+             <td></td>
+           </tr>
+
+          </table>
+          <p><br>*Youth under 16 are FREE with an adult</p>
+
+          <br>
+          <br>
+          <br>
+
+          <p class="table-header">Weekend Pass (all venues)</p>
+
+          <table>
+           <tr>
+             <td>$30 Early Bird</td>
+             <td>March 1 - April 1</td>
+           </tr>
+           <tr>
+             <td>$50 Pre Sale</td>
+             <td>Ends June 21</td>
+           </tr>
+          </table>
+          <a class="get-tickets" rel="noopener noreferrer" target="_blank "href="https://www.ticketfly.com/purchase/event/1656918">Get Tickets</a>
+        </div>
+      </section>
+
+      <section class="social">
+        <div class="social-content">
+          <h2>Join the conversation</h2>
+          <div class="social-icons">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/IthacaReggaeFest"><div class="social-facebook"></div></a>
+            <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/ithacareggaefest"><div class="social-instagram"></div></a>
+            <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/iTownReggaeFest"><div class="social-twitter"></div></a>
+          </div>
+        </div>
+
+      </section>
+
+      <footer>
+        <p><a href="http://epeery.com" target="_blank" rel="noopener noreferrer">Website created by Elijah Peery</a></p>
+      </footer>
+
+    </main>
+    <script src="./assets/scripts/jquery-3.1.0.js" type="text/javascript"></script>
+    <script src="./assets/scripts/siema.min.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+      $('.nav-logo-img').ready(() => {
+        $('main').css('visibility', 'visible');
+        $('main').css('display', 'block');
+
+        $('document').ready(() => {
+
+            const slider = new Siema({
+              selector: '.slider',
+              easing: 'cubic-bezier(0.4, 0.0, 0.6, 1)',
+              duration: 500,
+              loop: true,
+              threshold: 60,
+              onInit: () => {
+                autoplaySlider(true);
+              },
+              onChange: () => {
+                clearTimeout(timer);
+                autoplaySlider(false);
+              },
+            });
+
+            var timer;
+            var galleryTimer;
+
+            $('#ticketBtn').click(() => {
+                $('html, body').animate({
+                    scrollTop: $(".tickets-section").offset().top-$('.nav').height()
+                }, 1000);
+            });
+
+            $('.nav-item').click(e => {
+
+                $('.nav-toggle').prop('checked', false);
+
+                var elem = e.target;
+                console.log($(elem).attr('data-target'));
+                $('html, body').animate({
+                    scrollTop: $($(elem).attr('data-target')).offset().top-$('.nav').height()
+                }, 1000);
+            });
+
+            populateGallery();
+
+
+            function autoplaySlider(isFirstSlide) {
+              if(isFirstSlide) {
+                timer = setTimeout(() => {
+                  slider.next(1);
+                }, 8000);
+              } else {
+                timer = setTimeout(() => {
+                  slider.next(1);
+                }, 5000);
+              }
+
+            }
+
+
+
+            function populateGallery() {
+              function autoplayGallery() {
+                galleryTimer = setTimeout(() => {
+                  gallery.next(1);
+                }, 4000);
+              }
+
+              var numberOfimages = 27;
+              var images = [];
+              var imagePath = './assets/images/image_gallery/'
+              var imageType = '.jpg';
+
+              for (var i = 1; i <= numberOfimages; i++) {
+                images.push(i);
+              }
+
+              images = shuffle(images);
+
+              for (var i = 0; i < images.length; i++) {
+                $('.gallery').append('<div class="galleryImage"><img src='+ imagePath + images[i] + imageType + '></div>');
+              }
+
+              const gallery = new Siema({
+                selector: '.gallery',
+                easing: 'cubic-bezier(0.4, 0.0, 0.6, 1)',
+                duration: 500,
+                loop: true,
+                threshold: 60,
+                onInit: () => {
+                  autoplayGallery();
+                },
+                onChange: () => {
+                  clearTimeout(galleryTimer);
+                  autoplayGallery();
+                },
+              });
+            }
+
+            function shuffle(array) {
+              var currentIndex = array.length, temporaryValue, randomIndex;
+
+              // While there remain elements to shuffle...
+              while (0 !== currentIndex) {
+
+                // Pick a remaining element...
+                randomIndex = Math.floor(Math.random() * currentIndex);
+                currentIndex -= 1;
+
+                // And swap it with the current element.
+                temporaryValue = array[currentIndex];
+                array[currentIndex] = array[randomIndex];
+                array[randomIndex] = temporaryValue;
+              }
+
+              return array;
+            }
+
+        });
+
+      });
+    </script>
   </body>
 </html>
