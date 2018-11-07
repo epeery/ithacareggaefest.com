@@ -1,7 +1,9 @@
 ---
 title: Clinton Fearon
 date: 2018-11-07 18:01:00 -05:00
-name: Clinton Fearon
+info:
+  name: Clinton Fearon
+  image: "/uploads/01%20Clinton%20Fearon%20_%20Boogie%20Brown%20Band.jpg"
 layout: artist
 ---
 
