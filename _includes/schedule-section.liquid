@@ -1,4 +1,4 @@
-<section class="schedule">
+<section class="schedule {{ section.title | downcase | split: " " | join: "-"}}">
   <h1>{{ section.info.title }}</h1>
 
   {{ section.content }}

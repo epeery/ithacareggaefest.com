@@ -902,6 +902,8 @@ header {
     width: 90%;
     max-width: 50rem;
     text-align: center; }
+  .information li p {
+    text-align: left; }
   .information .guidelines {
     width: 90%;
     max-width: 60rem;
@@ -1128,50 +1130,12 @@ header {
 
 .sponsor {
   width: 18rem;
-  height: 8rem;
+  height: 10rem;
   margin: 2rem 1rem;
   background-size: contain;
   background-position: center;
-  background-repeat: no-repeat; }
-  .sponsor.the-haunt {
-    width: 90vw;
-    max-width: 30rem;
-    background-image: url("../images/sponsors/Haunt IRF Logo_1.jpg"); }
-  .sponsor.marriott {
-    background-image: url("../images/sponsors/marriott.jpg"); }
-  .sponsor.esb {
-    background-image: url("../images/sponsors/esb.jpg"); }
-  .sponsor.ithaca-beer {
-    background-image: url("../images/sponsors/ithaca-beer.png"); }
-  .sponsor.green-scene {
-    background-image: url("../images/sponsors/green-scene.jpg"); }
-  .sponsor.csp {
-    background-image: url("../images/sponsors/csp.svg"); }
-  .sponsor.mighty-yoga {
-    background-image: url("../images/sponsors/mighty-yoga.jpg"); }
-  .sponsor.renovus {
-    background-image: url("../images/sponsors/renovus.png"); }
-  .sponsor.greenstar {
-    background-image: url("../images/sponsors/GreenStar Logo.png"); }
-  .sponsor.flsm {
-    background-image: url("../images/sponsors/flsm.png"); }
-  .sponsor.casita-del-paloris {
-    background-image: url("../images/sponsors/Casita del paloris.jpg");
-    height: 10rem; }
-  .sponsor.grassroots {
-    background-image: url("../images/sponsors/grassroots.jpg");
-    height: 18rem; }
-  .sponsor.viva {
-    background-image: url("../images/sponsors/viva.svg"); }
-  .sponsor.child-development-council {
-    background-image: url("../images/sponsors/child-development-council.jpg");
-    height: 18rem; }
-  .sponsor.limebike {
-    background-image: url("../images/sponsors/LimeBike_logo.png");
-    height: 10rem; }
-  .sponsor.guayaki {
-    background-image: url("../images/sponsors/guayaki.svg");
-    height: 11rem; }
+  background-repeat: no-repeat;
+  overflow: hidden; }
 
 .sponsor-grid {
   width: 100vw;
