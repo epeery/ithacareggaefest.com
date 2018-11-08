@@ -12,7 +12,7 @@ collections:
     output: true
   sections:
     title: Sections
-    output: true
+    output: false
   sponsors:
     title: Sponsors
     output: true
