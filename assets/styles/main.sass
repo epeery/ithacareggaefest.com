@@ -638,19 +638,26 @@ header
     color: $yellow
   table
     width: 90%
-    max-width: 50rem
+    max-width: 30rem
     display: flex
     flex-direction: column
     align-items: space-between
     margin: 1rem
+    font-weight: 500
     tbody
       display: flex
       flex-direction: column
-      tr
-        display: flex
-        justify-content: space-between
-        &:first-child
-          color: $yellow
+    thead
+      color: $yellow
+    tr
+      width: 100%
+      display: flex
+      justify-content: space-between
+      border-bottom: 2px solid rgba($white, 0.25)
+      padding: 0.25rem
+      strong
+        color: $yellow
+        font-weight: 500
 
 .information
   display: flex

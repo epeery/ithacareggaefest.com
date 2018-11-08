@@ -839,7 +839,7 @@ header {
     color: #FFBE0B; }
   .schedule table {
     width: 90%;
-    max-width: 50rem;
+    max-width: 30rem;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -850,7 +850,8 @@ header {
     -webkit-box-align: space-between;
     -ms-flex-align: space-between;
     align-items: space-between;
-    margin: 1rem; }
+    margin: 1rem;
+    font-weight: 500; }
     .schedule table tbody {
       display: -webkit-box;
       display: -ms-flexbox;
@@ -859,15 +860,21 @@ header {
       -webkit-box-direction: normal;
       -ms-flex-direction: column;
       flex-direction: column; }
-      .schedule table tbody tr {
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-        -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-        justify-content: space-between; }
-        .schedule table tbody tr:first-child {
-          color: #FFBE0B; }
+    .schedule table thead {
+      color: #FFBE0B; }
+    .schedule table tr {
+      width: 100%;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+      border-bottom: 2px solid rgba(255, 255, 255, 0.25);
+      padding: 0.25rem; }
+      .schedule table tr strong {
+        color: #FFBE0B;
+        font-weight: 500; }
 
 .information {
   display: -webkit-box;
