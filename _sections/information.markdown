@@ -4,8 +4,9 @@ date: 2018-11-08 11:17:00 -05:00
 info:
   title: Information
   file: information-section.liquid
-  grid:
-    image: "/uploads/06%20Big%20Mean%20Dub%20Machine.jpg"
+  images:
+  - "/uploads/08%20Root%20Shock.jpg"
+  - "/uploads/05%20Mosaic%20Foundation.jpg"
 ---
 
 # Information
