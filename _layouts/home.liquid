@@ -1,101 +1,17 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ site.title }}</title>
-    <link rel="stylesheet" href="./assets/styles/default-skin/default-skin.css">
-    <link rel="stylesheet" href="./assets/styles/main.css">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
+  {% include head.liquid %}
+
   <body>
     <main>
 
-      <!-- <div class="splash">
-        <div class="splash-title-container">
-          <div class="splash-title">
-            <h1>Ithaca</h1>
-            <h1>Reggae</h1>
-            <h1>Fest</h1>
-          </div>
-        </div>
-        <div class="splash-subtitle">
-          <div>June 22 - 24, 2018</div>
-        </div>
-      </div> -->
+      <!-- {% include splash.liquid %} -->
 
       {% include nav.liquid %}
 
-      {% include header-slider.liquid %}
+      {% include artist-slider.liquid %}
 
-
-      <section class="line-up">
-        <h1>Line-Up</h1>
-        <div class="line-up-artists">
-          <a href="./clinton-fearon.html">
-            <h1 class="clinton-fearon">Clinton <br/> Fearon</h1>
-            <img src="./assets/images/bands/01 Clinton Fearon _ Boogie Brown Band.jpg" alt="">
-          </a>
-          <a href="./sister-carol.html">
-            <h1 class="sister-carol">Sister <br/> Carol</h1>
-            <img src="./assets/images/bands/02 Sister Carol.JPG" alt="">
-          </a>
-          <a href="./the-meditations.html">
-            <h1 class="the-meditations">The Meditations</h1>
-            <img src="./assets/images/bands/03 The Meditations.png" alt="">
-          </a>
-          <a href="./double-tiger.html">
-            <h1 class="double-tiger">Double <br/> Tiger</h1>
-            <img src="./assets/images/bands/04 Double Tiger.jpg" alt="">
-          </a>
-          <a href="./mosaic-foundation.html">
-            <h1 class="mosaic-foundation">Mosaic Foundation</h1>
-            <img src="./assets/images/bands/05 Mosaic Foundation.jpg" alt="">
-          </a>
-          <a href="./big-mean-dub-machine.html">
-            <h1 class="big-mean-dub-machine">Big Mean Dub Machine</h1>
-            <img src="./assets/images/bands/06 Big Mean Dub Machine.jpg" alt="">
-          </a>
-          <a href="./kevin-kinsella.html">
-            <h1 class="kevin-kinsella">Kevin <br/> Kinsella</h1>
-            <img src="./assets/images/bands/07 Kevin Kinsella.jpg" alt="">
-          </a>
-          <a href="./root-shock.html">
-            <h1 class="root-shock">Root Shock</h1>
-            <img src="./assets/images/bands/08 Root Shock.jpg" alt="">
-          </a>
-          <a href="./thousands-of-one.html">
-            <h1 class="thousands-of-one">Thousands Of One</h1>
-            <img src="./assets/images/bands/09 Thousands Of One.jpg" alt="">
-          </a>
-          <a href="./the-analogue-sons.html">
-            <h1 class="the-analogue-sons">The Analogue Sons</h1>
-            <img src="./assets/images/bands/10 The Analogue Sons.jpg" alt="">
-          </a>
-          <a href="./crucial-reggae-social-club.html">
-            <h1 class="crucial-reggae-social-club">Crucial Reggae Social Club</h1>
-            <img src="./assets/images/bands/11 Crucial Reggae Social Club.jpg" alt="">
-          </a>
-          <a class="no-bio">
-            <h1 class="rebel-fire">Rebel Fire</h1>
-            <img src="./assets/images/bands/12 Rebel Fire.jpg" alt="">
-          </a>
-          <a href="./dj-kamau-preston.html">
-            <h1 class="dj-kamau-preston">DJ Kamau Preston</h1>
-            <img src="./assets/images/bands/13 DJ Kamau Preston.jpg" alt="">
-          </a>
-          <a href="./dj-hameen.html">
-            <h1 class="dj-hameen">DJ ha-MEEN</h1>
-            <img src="./assets/images/bands/14 DJ haMEEN.jpg" alt="">
-          </a>
-          <a href="./makeda-cheatom.html">
-            <h1 class="makeda-cheatom">Makeda Cheatom</h1>
-            <img src="./assets/images/bands/15 Makeda Cheatom.jpg" alt="">
-          </a>
-        </div>
-      </section>
+      {% include lineup-section.liquid %}
 
       <section class="mission">
         <img class="mission-logo" src="./assets/images/irf-logo-full.svg" alt="">

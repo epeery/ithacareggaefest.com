@@ -1,0 +1,7 @@
+<header class="slider">
+  {% for artist in site.artists %}
+    <div class="header-slider-item">
+      <img src="{{ artist.info.image }}" alt="{{ artist.info.name }}">
+    </div>
+  {% endfor %}
+</header>
