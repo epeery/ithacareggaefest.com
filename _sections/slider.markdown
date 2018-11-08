@@ -5,5 +5,6 @@ info:
   title: Artist Slider
   file: artist-slider-section.liquid
   hide-in-nav: true
+  hidden: true
 ---
 
