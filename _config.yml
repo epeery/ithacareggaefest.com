@@ -5,6 +5,8 @@ collections:
   artists:
     title: Artists
     output: true
+    options:
+      hidden: false
   posts:
     title: Posts
     output: true
