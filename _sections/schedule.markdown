@@ -3,6 +3,7 @@ title: Schedule
 date: 2018-11-08 09:52:00 -05:00
 info:
   title: Schedule
+  file: schedule-section.liquid
 ---
 
 | Festival Kick Off Party @ The Haunt | June 22 |
