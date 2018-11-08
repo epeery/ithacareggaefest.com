@@ -1,7 +1,8 @@
 <section class="line-up">
   <h1>Line-Up</h1>
   <div class="line-up-artists">
-    {% for artist in site.artists %}
+    {% assign sorted_artists = site.artists | sort:"position" %}
+    {% for artist in sorted_artists %}
       <a href="{{ artist.url }}">
         <img src="{{ artist.info.image }}" alt="">
       </a>
