@@ -7,6 +7,8 @@ info:
   file: schedule-section.liquid
 ---
 
+Event dates, pre-parties, after-parties, venue locations, etc.
+
 | Festival Kick Off Party @ The Haunt | June 22 |
 |-------------------------------------|--------:|
 | **(702 Willow Ave, Ithaca, NY 14850)**  |         |
