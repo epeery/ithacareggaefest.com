@@ -2,6 +2,10 @@
 title: Wellness Village
 date: 2018-11-08 11:48:00 -05:00
 position: 5
+info:
+  title: Wellness Village
+  file: information-section.liquid
+  hide-in-nav: true
 ---
 
 ## Wellness Village
