@@ -1,7 +1,7 @@
 ---
 title: Schedule
 date: 2018-11-08 09:52:00 -05:00
-position: 2
+position: 3
 info:
   title: Schedule
   file: schedule-section.liquid
