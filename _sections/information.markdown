@@ -5,8 +5,10 @@ info:
   title: Information
   file: information-section.liquid
   grid-images:
-  - "/uploads/06%20Big%20Mean%20Dub%20Machine.jpg"
-  - "/uploads/04%20Double%20Tiger.jpg"
+  - image: "/uploads/04%20Double%20Tiger.jpg"
+    url: http://www.cayugalake.org/
+  - image: "/uploads/03%20The%20Meditations.png"
+    url: http://ccetompkins.org/environment/invasive-nuisance-species/aquatic-invasives/hydrilla/fighting-hydrilla-in-the-cayuga-lake-watershed/hydrilla-task-force-of-the-cayuga-lake-watershed
 ---
 
 # Information
