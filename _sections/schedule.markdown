@@ -9,7 +9,7 @@ info:
 
 | Festival Kick Off Party @ The Haunt | June 22 |
 |-------------------------------------|--------:|
-| (702 Willow Ave, Ithaca, NY 14850)  |         |
+| **(702 Willow Ave, Ithaca, NY 14850)**  |         |
 | Doors: 6pm, Show: 7pm               |         |
 | 7:00pm: DJ ha-MEEN                  |         |
 | 7:30pm: The Analogue Sons           |         |
