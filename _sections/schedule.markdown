@@ -5,6 +5,7 @@ position: 2
 info:
   title: Schedule
   file: schedule-section.liquid
+  hidden: false
 ---
 
 Event dates, pre-parties, after-parties, venue locations, etc.
