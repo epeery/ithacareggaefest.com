@@ -11,7 +11,9 @@
 
       {% assign sorted_sections = site.sections | sort:"position" %}
       {% for section in sorted_sections %}
-        {% include {{ section.info.file }} %}
+        {% if section.info.hidden != true %}
+          {% include {{ section.info.file }} %}
+        {% endif %}
       {% endfor %}
 
       <section class="information">
