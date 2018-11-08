@@ -7,7 +7,7 @@ info:
 layout: artist
 ---
 
-# The History
+## The History
 
 The Meditations - Ansel Cridland, Danny Clarke and Winston Watson collective known as The Meditations, recorded their first hit single woman is like a shadow in 1974 at Channel One Recording Studio. The group made it’s mark and sealed their place as reggae legends with the release of the first two albums Message From The Meditations and Wake Up produced by Dobby Dobson. Soon after came the third album Guidance Produced by Ansel Cridland.
 
