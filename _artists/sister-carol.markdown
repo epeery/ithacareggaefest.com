@@ -4,6 +4,7 @@ date: 2018-11-07 19:48:00 -05:00
 info:
   name: Sister Carol
   image: "/uploads/02%20Sister%20Carol.JPG"
+layout: artist
 ---
 
 Sister Carol comes fresh again gifting the masses with her 15th studio album called THC - The Healing Cure. THC has certainly lived up to and surpassed her fans expectations featuring 15 vibrantly mixed tracks infused with a roots / acoustic sound. The lyrics are informational, humorous and enlightening. Sister Carol’s music is able to evoke the listener's undivided attention with her voice and engaging messages. This album definitively serves as an option to enhance self-care regiments and medicinal application of the "healing of the nation". Make sure you pick up or download your copy of the new album T.H.C. – The Healing Cure by Reggae’s Mother Culture, the incomparable Sister Carol.
