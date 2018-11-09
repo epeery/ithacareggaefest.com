@@ -7,3 +7,4 @@ info:
   hide-in-nav: true
 ---
 
+## Festival Sponsors
