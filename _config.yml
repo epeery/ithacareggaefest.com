@@ -7,15 +7,15 @@ collections:
     output: true
     options:
       hidden: false
+  grids:
+    title: Grids
+    output: false
   posts:
     title: Posts
     output: true
   sections:
     title: Sections
     output: false
-  sponsors:
-    title: Sponsors
-    output: true
   uploads:
     title: Uploads
     output: true
