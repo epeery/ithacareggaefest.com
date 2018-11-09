@@ -1,7 +1,7 @@
 ---
 title: Media
 date: 2018-11-08 15:02:00 -05:00
-position: 7
+position: 8
 info:
   title: Media
   file: information-section.liquid
