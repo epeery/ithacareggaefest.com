@@ -7,7 +7,7 @@ layout: default
 
   {% include splash.liquid %}
 
-  {% assign sorted_sections = site.sections | sort:"position" %}
+  {% assign sorted_sections = site.pages | sort:"position" %}
   {% for section in sorted_sections %}
     {% if section.info.hidden != true %}
       {% include {{ section.info.file }} %}
