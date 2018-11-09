@@ -1,6 +1,7 @@
 ---
 title: Festival Sponsors
 date: 2018-11-09 15:53:00 -05:00
+position: 1
 ---
 
 ![mighty-yoga.jpg](/uploads/mighty-yoga.jpg)
