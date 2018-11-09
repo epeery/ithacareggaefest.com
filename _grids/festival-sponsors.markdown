@@ -5,7 +5,7 @@ date: 2018-11-09 15:53:00 -05:00
 
 ![mighty-yoga.jpg](/uploads/mighty-yoga.jpg)
 
-[viva.svg](/uploads/viva.svg)
+![viva.svg](/uploads/viva.svg)
 
 ![renovus.png](/uploads/renovus.png)
 
@@ -15,7 +15,7 @@ date: 2018-11-09 15:53:00 -05:00
 
 ![ithaca-beer.png](/uploads/ithaca-beer.png)
 
-[guayaki.svg](/uploads/guayaki.svg)
+![guayaki.svg](/uploads/guayaki.svg)
 
 ![greenstar.jpg](/uploads/greenstar.jpg)
 
@@ -29,7 +29,7 @@ date: 2018-11-09 15:53:00 -05:00
 
 ![esb.jpg](/uploads/esb.jpg)
 
-[csp.svg](/uploads/csp.svg)
+![csp.svg](/uploads/csp.svg)
 
 ![child-development-council.jpg](/uploads/child-development-council.jpg)
 
