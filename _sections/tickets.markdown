@@ -5,6 +5,7 @@ position: 10
 info:
   file: tickets-section.liquid
   hide-in-nav: true
+  is-ticket-section: true
 ---
 
 # Tickets
