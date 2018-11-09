@@ -5,6 +5,7 @@ position: 9
 info:
   file: information-section.liquid
   hide-in-nav: true
+  grid: Festival Sponsors
 ---
 
 ## Festival Sponsors
