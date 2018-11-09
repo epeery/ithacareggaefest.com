@@ -5,6 +5,5 @@ position: 1
 info:
   title: Line-Up
   file: lineup-section.liquid
-  hidden: false
 ---
 
