@@ -27,20 +27,25 @@ layout: default
 
     $('document').ready(() => {
 
-        const slider = new Siema({
-          selector: '.slider',
-          easing: 'cubic-bezier(0.4, 0.0, 0.6, 1)',
-          duration: 500,
-          loop: true,
-          threshold: 60,
-          onInit: () => {
-            autoplaySlider(true);
-          },
-          onChange: () => {
-            clearTimeout(timer);
-            autoplaySlider(false);
-          },
-        });
+        {% for section in site.sections %}
+          {% if section.hidden != true and section.title == "Artist Slider"%}
+            const slider = new Siema({
+              selector: '.slider',
+              easing: 'cubic-bezier(0.4, 0.0, 0.6, 1)',
+              duration: 500,
+              loop: true,
+              threshold: 60,
+              onInit: () => {
+                autoplaySlider(true);
+              },
+              onChange: () => {
+                clearTimeout(timer);
+                autoplaySlider(false);
+              },
+            });
+          {% endif %}
+        {% endfor %}
+
 
         var timer;
         var galleryTimer;
