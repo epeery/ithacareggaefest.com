@@ -8,6 +8,9 @@ info:
 
 ## Festival Guidelines
 
+![1.jpg](/uploads/1.jpg)
+
+
 * Positive vibes highly recommended (all day every day)
 
 * ZERO PLASTIC allowed (Thanks being part of the PLASTIC FREE revolution)
