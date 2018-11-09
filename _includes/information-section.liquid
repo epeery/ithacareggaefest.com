@@ -2,10 +2,12 @@
   {{ section.content }}
 
   {% if section.info.grid %}
-    <div class="sponsor-grid">
-
-
-
+    <div class="grid">
+      {% for grid in site.grids %}
+        {% if grid.title == section.info.grid%}
+          {{ grid.content }}
+        {% endif %}
+      {% endfor %}
     </div>
   {% endif %}
 </section>

@@ -1131,27 +1131,29 @@ header {
     color: #FFBE0B; }
   .sponsors h2 {
     margin: 5rem 0 0; }
+  .sponsors img {
+    max-width: 30rem; }
 
-.sponsor {
-  width: 18rem;
-  height: 10rem;
-  margin: 2rem 1rem;
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  overflow: hidden; }
-
-.sponsor-grid {
-  width: 100vw;
-  max-width: 60rem;
+.grid {
+  width: 90vw;
+  max-width: 40rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
-  justify-content: center;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap; }
+  justify-content: center; }
+  .grid p {
+    width: 8rem;
+    height: 12rem;
+    margin: 1rem; }
+  .grid img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: contain;
+    object-fit: contain; }
 
 .artist-page .bg {
   position: fixed;

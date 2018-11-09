@@ -10,13 +10,22 @@
 
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSfr3HQ8W_-m1w5Ud7XhoW0AGHQcI8mezITv1luARJWoS7CCSw/viewform" target="_blank" rel="noopener noreferrer" class="nav-item">Volunteer</a>
   </div>
-  <a class="header-get-tickets get-tickets" id="ticketBtn">Get Tickets</a>
+
+  {% for section in site.sections %}
+    {% if section.hidden != true and section.info.is-ticket-section == true %}
+      <a class="header-get-tickets get-tickets" id="ticketBtn">Get Tickets</a>
+    {% endif %}
+  {% endfor %}
 </div>
 
 <div class="nav fixed collapsed">
   <a class="nav-logo" href="/"><img class="nav-logo" src="/assets/images/irf-logo.svg" alt="IRF Home"/></a>
 
-  <a class="nav-item mobile-cta" data-target=".tickets-section">Get tickets</a>
+  {% for section in site.sections %}
+    {% if section.hidden != true and section.info.is-ticket-section == true %}
+      <a class="nav-item mobile-cta" data-target=".tickets-section">Get tickets</a>
+    {% endif %}
+  {% endfor %}
 
   <input type='checkbox' name='nav-toggle' value='valuable' class="nav-toggle"/>
   <label class="hamburger" for="nav-toggle">
