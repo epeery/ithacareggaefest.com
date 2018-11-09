@@ -5,6 +5,7 @@ position: 4
 info:
   title: Information
   file: information-section.liquid
+  grid: Education Village
 ---
 
 # Information
