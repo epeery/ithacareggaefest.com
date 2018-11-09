@@ -4,7 +4,7 @@ date: 2018-11-09 16:11:00 -05:00
 position: 8
 info:
   file: information-section.liquid
-  grid: 
+  grid: International Food Village
   hide-in-nav: true
 ---
 
