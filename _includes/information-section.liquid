@@ -1,14 +1,11 @@
 <section class="information {{ section.title | downcase | split: " " | join: "-"}}">
   {{ section.content }}
 
-  {% if section.info.grid-images %}
+  {% if section.info.grid %}
     <div class="sponsor-grid">
-      {% assign sorted_images = section.info.grid-images | sort:"position" %}
-      {% for item in sorted_images %}
-        <a href="{{ item.url }}" target="_blank" rel="noreferrer noopener" class="sponsor">
-          <img src="{{ item.image }}" alt="{{ item.url }}">
-        </a>
-      {% endfor %}
+
+
+
     </div>
   {% endif %}
 </section>
