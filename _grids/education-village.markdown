@@ -3,6 +3,26 @@ title: Education Village
 date: 2018-11-09 13:55:00 -05:00
 ---
 
-[![08 Root Shock.jpg](/uploads/08%20Root%20Shock.jpg)](https://www.apollographql.com/docs/react/recipes/recompose.html)
+![plastic tides.jpg](/uploads/plastic%20tides.jpg)
 
-[![06 Big Mean Dub Machine.jpg](/uploads/06%20Big%20Mean%20Dub%20Machine.jpg)](https://www.zara.com/us/en/jogging-pants-p00706507.html)
+![NRCS_Logo_IRF.png](/uploads/NRCS_Logo_IRF.png)
+
+![Hydrilla Task Force.jpg](/uploads/Hydrilla%20Task%20Force.jpg)
+
+![Friends of Stewart Park.jpg](/uploads/Friends%20of%20Stewart%20Park.jpg)
+
+![Finger Lakes Land Trust Logo.jpg](/uploads/Finger%20Lakes%20Land%20Trust%20Logo.jpg)
+
+![EHAEC.png](/uploads/EHAEC.png)
+
+![discover cayuga lake.jpg](/uploads/discover%20cayuga%20lake.jpg)
+
+![CSI.png](/uploads/CSI.png)
+
+![Cornell Soil Health Lab.png](/uploads/Cornell%20Soil%20Health%20Lab.png)
+
+![CLWN Logo.jpg](/uploads/CLWN%20Logo.jpg)
+
+![Cayuga Waterfront Trail.jpg](/uploads/Cayuga%20Waterfront%20Trail.jpg)
+
+![CLEAN Cayuga Lake.png](/uploads/CLEAN%20Cayuga%20Lake.png)
