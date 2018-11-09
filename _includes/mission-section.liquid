@@ -1,4 +1,4 @@
-<section class="mission">
+<section class="mission {{ section.title | downcase | split: " " | join: "-"}}">
   <img class="mission-logo" src="./assets/images/irf-logo-full.svg" alt="">
   <h1 class="mission-header">{{ section.info.title }}</h1>
 

@@ -22,6 +22,10 @@ h2
   width: 100vw
   height: 100vh
   position: fixed
+  top: 0
+  right: 0
+  bottom: 0
+  left: 0
   background-color: $white
   z-index: 99999999999999999999999999999
   display: flex
@@ -29,7 +33,7 @@ h2
   align-items: center
   flex-direction: column
   text-align: center
-  animation: fadeOut 3s 3.68s $standard forwards
+  animation: fadeOut 3s 1.68s $standard forwards
 .splash-title
   display: flex
   position: relative
@@ -667,6 +671,10 @@ header
   padding: 5rem 0 0
   background-color: $white
   color: $black
+  z-index: 1
+  position: relative
+  img
+    max-width: 30rem
   h1
     color: $yellow
     width: 100%
@@ -676,6 +684,9 @@ header
     width: 90%
     max-width: 50rem
     text-align: center
+  li
+    p
+      text-align: left
   .guidelines
     width: 90%
     max-width: 60rem
@@ -807,6 +818,7 @@ header
     max-width: 50rem
     height: 40rem
     img
+      max-width: none
       width: 100%
       height: 100%
       object-fit: cover
@@ -856,61 +868,22 @@ header
     color: $yellow
   h2
     margin: 5rem 0 0
-
-.sponsor
-  width: 18rem
-  height: 8rem
-  margin: 2rem 1rem
-  background-size: contain
-  background-position: center
-  background-repeat: no-repeat
-  &.the-haunt
-    width: 90vw
+  img
     max-width: 30rem
-    background-image: url("../images/sponsors/Haunt IRF Logo_1.jpg")
-  &.marriott
-    background-image: url("../images/sponsors/marriott.jpg")
-  &.esb
-    background-image: url("../images/sponsors/esb.jpg")
-  &.ithaca-beer
-    background-image: url("../images/sponsors/ithaca-beer.png")
-  &.green-scene
-    background-image: url("../images/sponsors/green-scene.jpg")
-  &.csp
-    background-image: url("../images/sponsors/csp.svg")
-  &.mighty-yoga
-    background-image: url("../images/sponsors/mighty-yoga.jpg")
-  &.renovus
-    background-image: url("../images/sponsors/renovus.png")
-  &.greenstar
-    background-image: url("../images/sponsors/GreenStar Logo.png")
-  &.flsm
-    background-image: url("../images/sponsors/flsm.png")
-  &.casita-del-paloris
-    background-image: url("../images/sponsors/Casita del paloris.jpg")
-    height: 10rem
-  &.grassroots
-    background-image: url("../images/sponsors/grassroots.jpg")
-    height: 18rem
-  &.viva
-    background-image: url("../images/sponsors/viva.svg")
-  &.child-development-council
-    background-image: url("../images/sponsors/child-development-council.jpg")
-    height: 18rem
-  &.limebike
-    background-image: url("../images/sponsors/LimeBike_logo.png")
-    height: 10rem
-  &.guayaki
-    background-image: url("../images/sponsors/guayaki.svg")
-    height: 11rem
-
-.sponsor-grid
-  width: 100vw
-  max-width: 60rem
+.grid
+  width: 90vw
+  max-width: 40rem
   display: flex
-  justify-content: center
   flex-wrap: wrap
-
+  justify-content: center
+  p
+    width: 8rem
+    height: 12rem
+    margin: 1rem
+  img
+    width: 100%
+    height: 100%
+    object-fit: contain
 .artist-page
   .bg
     position: fixed

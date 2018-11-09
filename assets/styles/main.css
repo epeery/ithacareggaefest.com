@@ -83,6 +83,10 @@ h2 {
   width: 100vw;
   height: 100vh;
   position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
   background-color: #FFFFFF;
   z-index: 99999999999999999999999999999;
   display: -webkit-box;
@@ -99,8 +103,8 @@ h2 {
   -ms-flex-direction: column;
   flex-direction: column;
   text-align: center;
-  -webkit-animation: fadeOut 3s 3.68s cubic-bezier(0.4, 0, 0.2, 1) forwards;
-  animation: fadeOut 3s 3.68s cubic-bezier(0.4, 0, 0.2, 1) forwards; }
+  -webkit-animation: fadeOut 3s 1.68s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  animation: fadeOut 3s 1.68s cubic-bezier(0.4, 0, 0.2, 1) forwards; }
 
 .splash-title {
   display: -webkit-box;
@@ -892,7 +896,11 @@ header {
   align-items: center;
   padding: 5rem 0 0;
   background-color: #FFFFFF;
-  color: #000000; }
+  color: #000000;
+  z-index: 1;
+  position: relative; }
+  .information img {
+    max-width: 30rem; }
   .information h1 {
     color: #FFBE0B;
     width: 100%;
@@ -902,6 +910,8 @@ header {
     width: 90%;
     max-width: 50rem;
     text-align: center; }
+  .information li p {
+    text-align: left; }
   .information .guidelines {
     width: 90%;
     max-width: 60rem;
@@ -1048,6 +1058,7 @@ header {
     max-width: 50rem;
     height: 40rem; }
     .media .gallery img {
+      max-width: none;
       width: 100%;
       height: 100%;
       -o-object-fit: cover;
@@ -1125,65 +1136,29 @@ header {
     color: #FFBE0B; }
   .sponsors h2 {
     margin: 5rem 0 0; }
+  .sponsors img {
+    max-width: 30rem; }
 
-.sponsor {
-  width: 18rem;
-  height: 8rem;
-  margin: 2rem 1rem;
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat; }
-  .sponsor.the-haunt {
-    width: 90vw;
-    max-width: 30rem;
-    background-image: url("../images/sponsors/Haunt IRF Logo_1.jpg"); }
-  .sponsor.marriott {
-    background-image: url("../images/sponsors/marriott.jpg"); }
-  .sponsor.esb {
-    background-image: url("../images/sponsors/esb.jpg"); }
-  .sponsor.ithaca-beer {
-    background-image: url("../images/sponsors/ithaca-beer.png"); }
-  .sponsor.green-scene {
-    background-image: url("../images/sponsors/green-scene.jpg"); }
-  .sponsor.csp {
-    background-image: url("../images/sponsors/csp.svg"); }
-  .sponsor.mighty-yoga {
-    background-image: url("../images/sponsors/mighty-yoga.jpg"); }
-  .sponsor.renovus {
-    background-image: url("../images/sponsors/renovus.png"); }
-  .sponsor.greenstar {
-    background-image: url("../images/sponsors/GreenStar Logo.png"); }
-  .sponsor.flsm {
-    background-image: url("../images/sponsors/flsm.png"); }
-  .sponsor.casita-del-paloris {
-    background-image: url("../images/sponsors/Casita del paloris.jpg");
-    height: 10rem; }
-  .sponsor.grassroots {
-    background-image: url("../images/sponsors/grassroots.jpg");
-    height: 18rem; }
-  .sponsor.viva {
-    background-image: url("../images/sponsors/viva.svg"); }
-  .sponsor.child-development-council {
-    background-image: url("../images/sponsors/child-development-council.jpg");
-    height: 18rem; }
-  .sponsor.limebike {
-    background-image: url("../images/sponsors/LimeBike_logo.png");
-    height: 10rem; }
-  .sponsor.guayaki {
-    background-image: url("../images/sponsors/guayaki.svg");
-    height: 11rem; }
-
-.sponsor-grid {
-  width: 100vw;
-  max-width: 60rem;
+.grid {
+  width: 90vw;
+  max-width: 40rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
-  justify-content: center;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap; }
+  justify-content: center; }
+  .grid p {
+    width: 8rem;
+    height: 12rem;
+    margin: 1rem; }
+  .grid img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: contain;
+    object-fit: contain; }
 
 .artist-page .bg {
   position: fixed;

@@ -1,4 +1,4 @@
-<section class="line-up">
+<section class="line-up {{ section.title | downcase | split: " " | join: "-"}}">
   <h1>Line-Up</h1>
   <div class="line-up-artists">
     {% assign sorted_artists = site.artists | sort:"position" %}

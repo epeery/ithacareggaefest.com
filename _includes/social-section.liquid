@@ -1,0 +1,11 @@
+<section class="social {{ section.title | downcase | split: " " | join: "-"}}">
+  <div class="social-content">
+    {{ section.content }}
+
+    <div class="social-icons">
+      <a target="_blank" rel="noopener noreferrer" href="{{ section.info.facebook }}"><div class="social-facebook"></div></a>
+      <a target="_blank" rel="noopener noreferrer" href="{{ section.info.instagram }}"><div class="social-instagram"></div></a>
+      <a target="_blank" rel="noopener noreferrer" href="{{ section.info.twitter }}"><div class="social-twitter"></div></a>
+    </div>
+  </div>
+</section>

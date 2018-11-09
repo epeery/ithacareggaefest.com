@@ -1,0 +1,148 @@
+---
+title: Home
+layout: default
+---
+
+<main>
+
+  {% assign sorted_sections = site.sections | sort:"position" %}
+  {% for section in sorted_sections %}
+    {% if section.hidden != true %}
+      {% include {{ section.info.file }} %}
+    {% endif %}
+  {% endfor %}
+
+</main>
+
+{% include footer.liquid %}
+
+<script src="/assets/scripts/jquery-3.1.0.js" type="text/javascript"></script>
+<script src="/assets/scripts/siema.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+  $('.nav-logo-img').ready(() => {
+    $('main').css('visibility', 'visible');
+    $('main').css('display', 'block');
+
+    $('document').ready(() => {
+
+        {% for section in site.sections %}
+          {% if section.hidden != true and section.title == "Artist Slider"%}
+            const slider = new Siema({
+              selector: '.slider',
+              easing: 'cubic-bezier(0.4, 0.0, 0.6, 1)',
+              duration: 500,
+              loop: true,
+              threshold: 60,
+              onInit: () => {
+                autoplaySlider(true);
+              },
+              onChange: () => {
+                clearTimeout(timer);
+                autoplaySlider(false);
+              },
+            });
+          {% endif %}
+        {% endfor %}
+
+
+        var timer;
+        var galleryTimer;
+
+        $('#ticketBtn').click(() => {
+            $('html, body').animate({
+                scrollTop: $(".tickets-section").offset().top-$('.nav').height()
+            }, 1000);
+        });
+
+        $('.nav-item').click(e => {
+
+            $('.nav-toggle').prop('checked', false);
+
+            var elem = e.target;
+            console.log($(elem).attr('data-target'));
+            $('html, body').animate({
+                scrollTop: $($(elem).attr('data-target')).offset().top-$('.nav').height()
+            }, 1000);
+        });
+
+        populateGallery();
+
+
+        function autoplaySlider(isFirstSlide) {
+          if(isFirstSlide) {
+            timer = setTimeout(() => {
+              slider.next(1);
+            }, 8000);
+          } else {
+            timer = setTimeout(() => {
+              slider.next(1);
+            }, 5000);
+          }
+
+        }
+
+
+
+        function populateGallery() {
+          function autoplayGallery() {
+            galleryTimer = setTimeout(() => {
+              gallery.next(1);
+            }, 4000);
+          }
+
+          var numberOfimages = 27;
+          var images = [];
+          var imagePath = '/assets/images/image_gallery/'
+          var imageType = '.jpg';
+
+          for (var i = 1; i <= numberOfimages; i++) {
+            images.push(i);
+          }
+
+          images = shuffle(images);
+
+          for (var i = 0; i < images.length; i++) {
+            $('.gallery').append('<div class="galleryImage"><img src='+ imagePath + images[i] + imageType + '></div>');
+          }
+
+          const gallery = new Siema({
+            selector: '.gallery',
+            easing: 'cubic-bezier(0.4, 0.0, 0.6, 1)',
+            duration: 500,
+            loop: true,
+            threshold: 60,
+            onInit: () => {
+              autoplayGallery();
+            },
+            onChange: () => {
+              clearTimeout(galleryTimer);
+              autoplayGallery();
+            },
+          });
+        }
+
+        function shuffle(array) {
+          var currentIndex = array.length, temporaryValue, randomIndex;
+
+          // While there remain elements to shuffle...
+          while (0 !== currentIndex) {
+
+            // Pick a remaining element...
+            randomIndex = Math.floor(Math.random() * currentIndex);
+            currentIndex -= 1;
+
+            // And swap it with the current element.
+            temporaryValue = array[currentIndex];
+            array[currentIndex] = array[randomIndex];
+            array[randomIndex] = temporaryValue;
+          }
+
+          return array;
+        }
+
+    });
+
+  });
+</script>
