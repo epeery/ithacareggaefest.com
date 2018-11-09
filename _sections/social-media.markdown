@@ -10,4 +10,4 @@ info:
   twitter: https://twitter.com/iTownReggaeFest
 ---
 
-# Join the conversation
+## Join the conversation
