@@ -5,11 +5,9 @@ layout: default
 
 <main>
 
-  {% include splash.liquid %}
-
   {% assign sorted_sections = site.sections | sort:"position" %}
   {% for section in sorted_sections %}
-    {% if section.info.hidden != true %}
+    {% if section.hidden != true %}
       {% include {{ section.info.file }} %}
     {% endif %}
   {% endfor %}
