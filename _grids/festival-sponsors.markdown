@@ -21,8 +21,6 @@ date: 2018-11-09 15:53:00 -05:00
 
 ![grassroots.jpg](/uploads/grassroots.jpg)
 
-![GreenStar Logo.png](/uploads/GreenStar%20Logo.png)
-
 ![green-scene.jpg](/uploads/green-scene.jpg)
 
 ![flsm.png](/uploads/flsm.png)
