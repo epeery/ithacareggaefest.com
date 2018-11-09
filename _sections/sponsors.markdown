@@ -6,3 +6,5 @@ info:
   file: information-section.liquid
 ---
 
+# Sponsors
+## Music Sponsors
