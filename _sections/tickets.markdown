@@ -4,6 +4,7 @@ date: 2018-11-09 14:58:00 -05:00
 position: 10
 info:
   file: tickets-section.liquid
+  hide-in-nav: true
 ---
 
 # Tickets
