@@ -3,7 +3,7 @@
   <div class="nav-list">
     {% assign sorted_sections = site.sections | sort:"position" %}
     {% for section in sorted_sections %}
-      {% if section.info.hide-in-nav != true and section.info.hidden != true %}
+      {% if section.info.hide-in-nav != true and section.hidden != true %}
         <a class="nav-item" data-target=".{{ section.title | downcase | split: " " | join: "-"}}">{{ section.title | downcase | split: " " | join: "-"}}</a>
       {% endif %}
     {% endfor %}
