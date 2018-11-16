@@ -24,11 +24,14 @@ Ithaca Journal: [Ithaca Reggae Fest to debut at Stewart Park](https://www.ithaca
 Rootfire: [Past Future - Ithaca Reggae Fest](https://rootfire.net/past-future-ithaca-reggae-festival-ticket-giveaway/)
 
 ## 2018 Media
-(coming soon)
+
+\(coming soon)
 
 ## 2017 Recap Video
+
+
 <video src="/uploads/irf_2017.mp4" controls=""></video>
 
-
 ## Photo Gallery
+
 <div class="gallery"></div>
