@@ -744,7 +744,7 @@ header {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  padding: 5rem 0;
+  padding: 5vw 0;
   z-index: 0; }
   .mission .mission-logo {
     width: 15rem;
