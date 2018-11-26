@@ -2,10 +2,18 @@
   {{ section.content }}
 
   {% if section.info.grid %}
-    <div class="grid">
       {% for grid in site.grids %}
         {% if grid.title == section.info.grid%}
-          {{ grid.content }}
+          {% if grid.info.grid-collapse == true %}
+            <div class="grid grid-collapse">
+              {{ grid.content }}
+            </div>
+
+          {% else %}
+            <div class="grid">
+              {{ grid.content }}
+            </div>
+          {% endif %}
         {% endif %}
       {% endfor %}
     </div>
