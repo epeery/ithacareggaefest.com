@@ -17,11 +17,11 @@ info:
 
 Rootfire: [Generation Consciousness at Ithaca Reggae Fest](https://rootfire.net/generation-consciousness-at-ithaca-reggae-fest/)
 
-## 2018 Media
-
 Live For Live Music: [Ithaca Reggae Fest To Tap John Brown’s Body And More...](https://liveforlivemusic.com/news/first-annual-ithaca-reggae-fest/)
 
 Ithaca Journal: [Ithaca Reggae Fest to debut at Stewart Park](https://www.ithacajournal.com/story/entertainment/2017/06/20/ithaca-reggae-fest-debut-stewart-park/103045030/)
+
+## 2018 Media
 
 Rootfire: [Past Future - Ithaca Reggae Fest](https://rootfire.net/past-future-ithaca-reggae-festival-ticket-giveaway/)
 
