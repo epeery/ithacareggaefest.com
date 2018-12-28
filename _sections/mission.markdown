@@ -1,7 +1,7 @@
 ---
 title: Mission
 date: 2018-11-08 09:50:00 -05:00
-position: 3
+position: 4
 info:
   title: Our Mission
   file: mission-section.liquid
