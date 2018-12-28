@@ -2,6 +2,8 @@
 title: International Food Village
 date: 2018-11-09 16:12:00 -05:00
 position: 1
+info:
+  grid-collapse: true
 ---
 
 ![cayuga_lake_creamery_floating_logo.png](/uploads/cayuga_lake_creamery_floating_logo.png)
