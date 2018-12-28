@@ -3,6 +3,7 @@ title: Clinton Fearon
 date: 2018-12-28 14:33:00 -05:00
 info:
   image: "/uploads/01%20Clinton%20Fearon%20_%20Boogie%20Brown%20Band.jpg"
+  name: Clinton Fearon
 ---
 
 Clinton Fearon is a composer, songwriter, singer and player of instruments since his early teens. Born in Jamaica, Clinton became the bassist, vocalist and lyricist of the mythic Gladiators at the age of 19. He was also a session musician for Coxsone Dodd at Studio One and Lee ‘Scratch’ Perry’s at Black Ark in the 70s, two of the main producers on the island at this time. There Clinton composed some everlasting bass lines for well-known artists like Yabby You, Jimmy Riley, Max Romeo, Junior Byles and many others.
