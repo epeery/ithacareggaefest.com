@@ -15,6 +15,8 @@ info:
 | $30 Early Bird         |                   |
 | $20 Saturday Only      |                   |
 
+****
+
 | Advance Tickets           |                   |
 |---------------------------|------------------:|
 | $40 Weekend Pass          |                   |
