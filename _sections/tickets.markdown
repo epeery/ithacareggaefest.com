@@ -10,15 +10,12 @@ info:
 
 # Tickets
 
-| Day Pass\*  (park only) |                   |
+| Early Bird             |                   |
 |------------------------|------------------:|
-| $15 Early Bird         | March 1 - April 1 |
-| $25 Pre Sale           |      Ends June 21 |
-| $35 Gate               |                   |
+| $30 Early Bird         |                   |
+| $20 Saturday Only      |                   |
 
-\*Youth under 16 are FREE with an adult
-
-| Weekend Pass (all venues) |                   |
+| Advance Tickets           |                   |
 |---------------------------|------------------:|
-| $30 Early Bird            | March 1 - April 1 |
-| $50 Pre Sale              |      Ends June 21 |
+| $40 Weekend Pass          |                   |
+| $30 Saturday Only         |                   |
