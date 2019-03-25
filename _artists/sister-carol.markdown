@@ -2,7 +2,7 @@
 title: Sister Carol
 date: 2018-11-07 19:48:00 -05:00
 published: false
-position: 2
+position: 4
 info:
   name: Sister Carol
   image: "/uploads/02%20Sister%20Carol.JPG"
