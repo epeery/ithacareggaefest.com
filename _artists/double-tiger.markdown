@@ -4,7 +4,7 @@ date: 2018-11-07 20:04:00 -05:00
 position: 3
 info:
   name: Double Tiger
-  image: "/uploads/04%20Double%20Tiger.jpg"
+  image: "/uploads/doubletiger.png"
 layout: artist
 ---
 
