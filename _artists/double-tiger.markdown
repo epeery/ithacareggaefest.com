@@ -3,8 +3,8 @@ title: Double Tiger
 date: 2018-11-07 20:04:00 -05:00
 position: 3
 info:
-  name: Double Tiger
   image: "/uploads/doubletiger.png"
+  name: Double Tiger
 layout: artist
 ---
 
