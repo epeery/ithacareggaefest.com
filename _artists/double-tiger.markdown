@@ -1,7 +1,6 @@
 ---
 title: Double Tiger
 date: 2018-11-07 20:04:00 -05:00
-published: false
 position: 3
 info:
   name: Double Tiger
