@@ -26,4 +26,3 @@ position: 0
 
 ![Cayuga Waterfront Trail.jpg](/uploads/Cayuga%20Waterfront%20Trail.jpg)
 
-![CLEAN Cayuga Lake.png](/uploads/CLEAN%20Cayuga%20Lake.png)
