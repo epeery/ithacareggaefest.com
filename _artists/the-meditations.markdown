@@ -1,6 +1,7 @@
 ---
 title: The Meditations
 date: 2018-11-07 19:58:00 -05:00
+published: false
 position: 2
 info:
   name: The Meditations
