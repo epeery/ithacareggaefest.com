@@ -1,6 +1,7 @@
 ---
 title: Sister Carol
 date: 2018-11-07 19:48:00 -05:00
+published: false
 position: 1
 info:
   name: Sister Carol
