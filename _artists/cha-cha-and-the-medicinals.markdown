@@ -1,6 +1,7 @@
 ---
 title: Cha Cha & The Medicinals
 date: 2019-03-25 10:19:00 -04:00
+position: 0
 info:
   image: "/uploads/Cha%20Cha%20Medicinals%20Pic.jpg"
   name: Cha Cha & The Medicinals
