@@ -3,7 +3,7 @@ title: Double Tiger
 date: 2018-11-07 20:04:00 -05:00
 position: 3
 info:
-  image: "/uploads/Screen%20Shot%202019-03-25%20at%201.25.05%20PM.png"
+  image: "/uploads/double_tiger_photo_edit.jpg"
   name: Double Tiger
 layout: artist
 ---
