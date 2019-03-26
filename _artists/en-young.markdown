@@ -3,7 +3,7 @@ title: E.N. Young
 date: 2019-03-25 13:01:00 -04:00
 position: 1
 info:
-  image: "/uploads/E.N%20Young_final.jpg"
+  image: "/uploads/E.N%20YoungFINAL10.jpg"
   name: E.N. Young
 layout: artist
 ---
