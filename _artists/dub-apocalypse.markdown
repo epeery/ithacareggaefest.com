@@ -5,6 +5,7 @@ position: 5
 info:
   image: "/uploads/Dub%20Apocalypse%20Promo%20Pic_2.jpg"
   name: Dub Apocalypse
+layout: artist
 ---
 
 Dub Apocalypse is an instrumental dub reggae band from Boston, MA. Band members are Tommy Benedetti-drums,Van Martin-guitar,Johnny Trama-guitar,Aaron Bellamy-bass,and Timo Shanko-sax/bass.  The band came together in 2007 led by drummer Tommy Benedetti and guitarist Johnny Trama.  Tommy Benedetti is one of the founding members of American Reggae Pioneers John Brown's Body.  He brings a wealth of experience from the reggae/dub scene to the table having recorded albums for the legendary Shanachie Label, John Zorn's Tzadik Label (mixed by Bill Laswell) and is currently with John Brown's Body on Easy Star Records.  This history is combined with almost 2 decades of International touring as well as backing some of the giants of Jamaican music including The Meditations and Justin Hinds.
