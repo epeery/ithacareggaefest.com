@@ -3,7 +3,7 @@ title: E.N. Young
 date: 2019-03-25 13:01:00 -04:00
 position: 1
 info:
-  image: "/uploads/en_young_promo_edit.jpg"
+  image: "/uploads/E.N%20YoungEDIT.jpg"
   name: E.N. Young
 ---
 
