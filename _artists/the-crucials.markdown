@@ -5,6 +5,7 @@ position: 8
 info:
   image: "/uploads/The%20Crucials%20Press%20Pic.jpg"
   name: The Crucials
+layout: artist
 ---
 
 The Crucials have been a staple of the Ithaca Music Scene for the greater part of a decade. Since its inception, the band has performed weekly in Ithaca and of recent has been spreading its wings by gaining an international presence within the global reggae scene. 
