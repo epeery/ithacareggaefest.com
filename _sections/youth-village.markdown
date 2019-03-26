@@ -1,7 +1,7 @@
 ---
 title: Youth Village
 date: 2018-11-09 16:10:00 -05:00
-position: 7
+position: 8
 info:
   file: information-section.liquid
   hide-in-nav: true
