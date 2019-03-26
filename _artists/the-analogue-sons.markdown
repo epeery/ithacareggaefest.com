@@ -5,6 +5,7 @@ position: 7
 info:
   image: "/uploads/TAS1.png"
   name: The Analogue Sons
+layout: artist
 ---
 
 Lee Hamilton – saxophones (John Browns Body, JATAS, Super 20)
