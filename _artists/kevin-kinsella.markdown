@@ -1,7 +1,7 @@
 ---
 title: Kevin Kinsella
 date: 2019-03-25 13:06:00 -04:00
-position: 4
+position: 2
 info:
   image: "/uploads/Kevin%20Kinsella%20Press%20Pic_FINAL.jpg"
   name: Kevin Kinsella
