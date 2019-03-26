@@ -3,8 +3,9 @@ title: E.N. Young
 date: 2019-03-25 13:01:00 -04:00
 position: 1
 info:
-  image: "/uploads/E.N%20YoungEDIT.jpg"
+  image: "/uploads/E.N%20Young_final.jpg"
   name: E.N. Young
+layout: artist
 ---
 
 E.N Young, born Ian Allan Young, is a roots musician born and raised on the USA/Mexico border in San Diego, California. E.N started playing piano at age 6, which was the beginning of his musical life. His parents bought him a white upright Samick Piano that he still records and plays on today. At age 12, he broke his left arm and the doctor recommended some physical activity to help recover. In response, his father bought him a drum set to help with his recovery. Not only did it help physically but E.N found a passion for percussion and drums. With his new drumming talent, he reinvented himself on the piano and his musical world was revealed.
