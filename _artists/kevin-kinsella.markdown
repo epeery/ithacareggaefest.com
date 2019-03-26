@@ -5,6 +5,7 @@ position: 4
 info:
   image: "/uploads/Kevin%20Kinsella%20Press%20Pic_FINAL.jpg"
   name: Kevin Kinsella
+layout: artist
 ---
 
 Kevin Kinsella discovered the music of Bob Marley during his childhood, inspiring him to form reggae band Tribulations while attending college in Boston in the late ’80s. After releasing a 45 rpm single and two cassettes, the group’s full-length debut, The Gate, arrived in 1992, followed by Daddy Good Pieces in 1994. The group opened for Toots & the Maytals, and won the Yamaha Soundcheck competition, which led to them performing concerts in Japan.
