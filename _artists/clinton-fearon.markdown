@@ -1,6 +1,7 @@
 ---
 title: Clinton Fearon
 date: 2018-12-28 14:33:00 -05:00
+published: false
 position: 10
 info:
   image: "/uploads/01%20Clinton%20Fearon%20_%20Boogie%20Brown%20Band.jpg"

@@ -5,6 +5,7 @@ position: 3
 info:
   image: "/uploads/double_tiger_photo_edit.jpg"
   name: Double Tiger
+  layout: artist
 layout: artist
 ---
 
