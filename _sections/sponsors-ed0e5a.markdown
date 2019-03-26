@@ -1,7 +1,7 @@
 ---
 title: Sponsors
 date: 2018-11-09 14:54:00 -05:00
-position: 12
+position: 13
 info:
   file: information-section.liquid
   grid: Festival Sponsors
