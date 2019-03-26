@@ -1,7 +1,7 @@
 ---
 title: Double Tiger
 date: 2018-11-07 20:04:00 -05:00
-position: 4
+position: 3
 info:
   image: "/uploads/double_tiger_photo_edit.jpg"
   name: Double Tiger
