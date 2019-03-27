@@ -18,10 +18,8 @@ position: 0
 
 ![CSI.png](/uploads/CSI.png)
 
-![Cornell Soil Health Lab.png](/uploads/Cornell%20Soil%20Health%20Lab.png)
+[![CLWN Logo.jpg](/uploads/CLWN%20Logo.jpg)](https://www.cayugalake.org/)
 
-![CLWN Logo.jpg](/uploads/CLWN%20Logo.jpg)
-
-![Cayuga Waterfront Trail.jpg](/uploads/Cayuga%20Waterfront%20Trail.jpg)
+[![Cayuga Waterfront Trail.jpg](/uploads/Cayuga%20Waterfront%20Trail.jpg)](http://cayugawaterfronttrail.com/)
 
 ![CLEAN Cayuga Lake.png](/uploads/CLEAN%20Cayuga%20Lake.png)
