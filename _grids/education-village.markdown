@@ -10,7 +10,7 @@ position: 0
 
 [![Friends of Stewart Park.jpg](/uploads/Friends%20of%20Stewart%20Park.jpg)](https://www.friendsofstewartpark.org/)
 
-![Finger Lakes Land Trust Logo.jpg](/uploads/Finger%20Lakes%20Land%20Trust%20Logo.jpg)
+[![Finger Lakes Land Trust Logo.jpg](/uploads/Finger%20Lakes%20Land%20Trust%20Logo.jpg)](https://www.fllt.org/)
 
 ![EHAEC.png](/uploads/EHAEC.png)
 
