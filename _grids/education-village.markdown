@@ -12,15 +12,12 @@ position: 0
 
 ![Finger Lakes Land Trust Logo.jpg](/uploads/Finger%20Lakes%20Land%20Trust%20Logo.jpg)
 
-[![EHAEC.png](/uploads/EHAEC.png)](https://www.ehaec.com/)
+![EHAEC.png](/uploads/EHAEC.png)
 
-[![discover cayuga lake.jpg](/uploads/discover%20cayuga%20lake.jpg)](http://www.communityscience.org/)
+![discover cayuga lake.jpg](/uploads/discover%20cayuga%20lake.jpg)
 
 ![CSI.png](/uploads/CSI.png)
 
+[![CLWN Logo.jpg](/uploads/CLWN%20Logo.jpg)](https://www.cayugalake.org/)
 
-![CLWN Logo.jpg](/uploads/CLWN%20Logo.jpg)
-
-![Cayuga Waterfront Trail.jpg](/uploads/Cayuga%20Waterfront%20Trail.jpg)
-
-![CLEAN Cayuga Lake.png](/uploads/CLEAN%20Cayuga%20Lake.png)
+[![Cayuga Waterfront Trail.jpg](/uploads/Cayuga%20Waterfront%20Trail.jpg)](http://cayugawaterfronttrail.com/)
