@@ -22,7 +22,7 @@ position: 2
 
 ![Wegmans Logo 2.jpeg](/uploads/Wegmans%20Logo%202.jpeg)
 
-! \[Emmys_Organics_logo_2000.jpg(/uploads/Emmys_Organics_logo_2000.jpg)
+![Emmys_Organics_logo_2000.jpg(/uploads/Emmys_Organics_logo_2000.jpg)
 
 ![greenstar.jpg](/uploads/greenstar.jpg)
 
