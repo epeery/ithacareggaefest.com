@@ -10,8 +10,6 @@ position: 2
 
 ![ithaca-beer.png](/uploads/ithaca-beer.png)
 
-![LimeBike_logo.png](/uploads/LimeBike_logo.png)
-
 ![luna logo.jpg](/uploads/luna%20logo.jpg)
 
 ![esb.jpg](/uploads/esb.jpg)
@@ -24,12 +22,10 @@ position: 2
 
 ![Wegmans Logo 2.jpeg](/uploads/Wegmans%20Logo%202.jpeg)
 
-! [Emmys_Organics_logo_2000.jpg(/uploads/Emmys_Organics_logo_2000.jpg)
+! \[Emmys_Organics_logo_2000.jpg(/uploads/Emmys_Organics_logo_2000.jpg)
 
 ![greenstar.jpg](/uploads/greenstar.jpg)
 
 ![LimeBike_logo.png](/uploads/LimeBike_logo.png)
 
 ![guayaki.svg](/uploads/guayaki.svg)
-
-![csp.svg](/uploads/csp.svg)
