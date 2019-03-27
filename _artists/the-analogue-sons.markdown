@@ -3,7 +3,7 @@ title: The Analogue Sons
 date: 2019-03-25 13:11:00 -04:00
 position: 7
 info:
-  image: "/uploads/TAS1.png"
+  image: "/uploads/TAS_100.jpg"
   name: The Analogue Sons
 layout: artist
 ---
