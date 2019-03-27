@@ -4,7 +4,7 @@ date: 2018-11-09 13:55:00 -05:00
 position: 0
 ---
 
-[![New Roots Logo 2019.png](/uploads/New%20Roots%20Logo%202019.png)](https://newrootsschool.org/)
+[![New Roots Logo 2019.png](/uploads/New%20Roots%20Logo%202019.png)](https://newrootsschool.org/){:target="_blank"}
 
 ![Hydrilla Task Force.jpg](/uploads/Hydrilla%20Task%20Force.jpg)
 
