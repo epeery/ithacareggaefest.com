@@ -6,14 +6,6 @@ info:
   grid-collapse: true
 ---
 
-![cayuga_lake_creamery_floating_logo.png](/uploads/cayuga_lake_creamery_floating_logo.png)
-
-![Congo Square Logo.png](/uploads/Congo%20Square%20Logo.png)
-
-![Francos Pizza.jpg](/uploads/Francos%20Pizza.jpg)
-
-![Gimme.png](/uploads/Gimme.png)
-
 ![luna logo.jpg](/uploads/luna%20logo.jpg)
 
 ![Silo Food Truck.jpg](/uploads/Silo%20Food%20Truck.jpg)
@@ -22,4 +14,4 @@ info:
 
 ![Trini Style.jpg](/uploads/Trini%20Style.jpg)
 
-![Monks Logo.svg](/uploads/Monks%20Logo.svg)
+[![cayuga_lake_creamery_floating_logo.png](/uploads/cayuga_lake_creamery_floating_logo.png)](http://cayugalakecreamery.com/)
