@@ -10,7 +10,7 @@ info:
 
 ## Transportation & Parking
 
-* Parking Lots (follow the festival parking signs)
+  * Parking Lots (follow the festival parking signs)
 
   * Lot #1 Boynton Middle School (1601 N Cayuga St, Ithaca, NY 14850) Distance = 0.5 miles
 
