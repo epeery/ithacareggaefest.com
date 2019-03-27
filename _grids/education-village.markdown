@@ -8,17 +8,17 @@ position: 0
 
 ![Hydrilla Task Force.jpg](/uploads/Hydrilla%20Task%20Force.jpg)
 
-[![Friends of Stewart Park.jpg](/uploads/Friends%20of%20Stewart%20Park.jpg)](https://www.friendsofstewartpark.org/)
+![Friends of Stewart Park.jpg](/uploads/Friends%20of%20Stewart%20Park.jpg)
 
-[![Finger Lakes Land Trust Logo.jpg](/uploads/Finger%20Lakes%20Land%20Trust%20Logo.jpg)](https://www.fllt.org/)
+![Finger Lakes Land Trust Logo.jpg](/uploads/Finger%20Lakes%20Land%20Trust%20Logo.jpg)
 
-![EHAEC.png](/uploads/EHAEC.png)
+[![EHAEC.png](/uploads/EHAEC.png)](https://www.ehaec.com/)
 
-![discover cayuga lake.jpg](/uploads/discover%20cayuga%20lake.jpg)
+[![discover cayuga lake.jpg](/uploads/discover%20cayuga%20lake.jpg)](http://www.communityscience.org/)
 
 ![CSI.png](/uploads/CSI.png)
 
-![Cornell Soil Health Lab.png](/uploads/Cornell%20Soil%20Health%20Lab.png)
+[![Cornell Soil Health Lab.png](/uploads/Cornell%20Soil%20Health%20Lab.png)](https://www.govahana.com/)
 
 ![CLWN Logo.jpg](/uploads/CLWN%20Logo.jpg)
 
