@@ -21,3 +21,5 @@ position: 0
 [![CLWN Logo.jpg](/uploads/CLWN%20Logo.jpg)](https://www.cayugalake.org/)
 
 [![Cayuga Waterfront Trail.jpg](/uploads/Cayuga%20Waterfront%20Trail.jpg)](http://cayugawaterfronttrail.com/)
+
+![CLEAN Cayuga Lake.png](/uploads/CLEAN%20Cayuga%20Lake.png)
