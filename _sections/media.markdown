@@ -11,7 +11,7 @@ info:
 
 ## Ithaca Reggae Fest Playlist
 
-<iframe src="https://open.spotify.com/embed/user/85sesd9ls75zm0mzm9dncx3rt/playlist/3HFTMNsgvLf9T6IqEvgXy4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/user/85sesd9ls75zm0mzm9dncx3rt/playlist/6dKoEsKwpvHnpNETpKO1oI" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ## 2017 Media
 
