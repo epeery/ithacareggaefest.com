@@ -3,7 +3,7 @@ title: Giant Panda Guerilla Dub Squad
 date: 2019-03-25 09:35:00 -04:00
 position: 1
 info:
-  image: "/uploads/GPGDS101.jpg"
+  image: "/uploads/Giant%20Panda%20Press%20102.jpg"
   name: Giant Panda Guerilla Dub Squad
 layout: artist
 ---
