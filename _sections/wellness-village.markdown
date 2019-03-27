@@ -10,4 +10,4 @@ info:
 
 ## Wellness Village
 
-Wellness Village is sponsored by [Mighty Yoga](http://www.mightyyoga.com/) and Greenstar Co-op and managed by Astrid Jirka of [Yoga for the Earth.](https://www.govahana.com/yogafortheearth/) In 2017 Astrid led 108 Sun Salutations and Mighty Yoga led Michael Franti’s pre-show Yoga class on the shores of Cayuga Lake. With inspiration from both events we’re expanding to offer wellness activities throughout the day under the beautiful willow trees in Stewart Park. Your well being at the festival is important to us we encourage you to take a break during the day to enjoy a yoga class, a meditation, or a free massage from [The Finger Lakes School of Massage.](https://www.flsm.edu/)
+Wellness Village is a space to enjoy wellness activities throughout the day under the natural shade of beautiful willow trees in Stewart Park. Your well being at the festival is important to us and we encourage you to take a break during the day to experience a yoga class, a meditation, a massage, or a delicious conversation with friends and family. Enjoy the day!
