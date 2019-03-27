@@ -18,7 +18,6 @@ position: 0
 
 ![CSI.png](/uploads/CSI.png)
 
-[![Cornell Soil Health Lab.png](/uploads/Cornell%20Soil%20Health%20Lab.png)](https://www.govahana.com/)
 
 ![CLWN Logo.jpg](/uploads/CLWN%20Logo.jpg)
 
