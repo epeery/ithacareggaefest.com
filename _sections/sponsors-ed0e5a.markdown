@@ -7,7 +7,7 @@ info:
   grid: Festival Sponsors
 ---
 
-# Sponsors
+# Partners
 ## Music 
 ![Haunt IRF Logo_1.jpg](/uploads/Haunt%20IRF%20Logo_1.jpg)
 
