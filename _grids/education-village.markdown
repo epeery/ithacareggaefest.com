@@ -4,7 +4,7 @@ date: 2018-11-09 13:55:00 -05:00
 position: 0
 ---
 
-![New Roots Logo 2019.png](/uploads/New%20Roots%20Logo%202019.png)
+[![New Roots Logo 2019.png](/uploads/New%20Roots%20Logo%202019.png)](https://newrootsschool.org/)
 
 ![Hydrilla Task Force.jpg](/uploads/Hydrilla%20Task%20Force.jpg)
 
@@ -18,8 +18,8 @@ position: 0
 
 ![CSI.png](/uploads/CSI.png)
 
-[![CLWN Logo.jpg](/uploads/CLWN%20Logo.jpg)](https://www.cayugalake.org/)
+![CLWN Logo.jpg](/uploads/CLWN%20Logo.jpg)
 
-[![Cayuga Waterfront Trail.jpg](/uploads/Cayuga%20Waterfront%20Trail.jpg)](http://cayugawaterfronttrail.com/)
+![Cayuga Waterfront Trail.jpg](/uploads/Cayuga%20Waterfront%20Trail.jpg)
 
 ![CLEAN Cayuga Lake.png](/uploads/CLEAN%20Cayuga%20Lake.png)
