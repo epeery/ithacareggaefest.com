@@ -3,7 +3,7 @@ title: The Crucials
 date: 2019-03-26 09:31:00 -04:00
 position: 8
 info:
-  image: "/uploads/The%20Crucials%20Press%20final_100.jpg"
+  image: "/uploads/The%20Crucials%20Press%20Pic101.jpg"
   name: The Crucials
 layout: artist
 ---
