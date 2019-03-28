@@ -9,4 +9,3 @@ info:
 
 **Ithaca Reggae Fest is dedicated to the protection of Cayuga Lake through a conscious celebration of Ithaca’s legendary reggae community and its history.**
 
-\
