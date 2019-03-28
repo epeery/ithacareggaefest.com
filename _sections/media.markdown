@@ -17,6 +17,10 @@ info:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XjH9ILJFk14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Ithaca Reggae Fest 2018: Clinton Fearon "Love is a Conquerer"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HgUbiesATJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Photo Gallery
 
 <div class="gallery"></div>
