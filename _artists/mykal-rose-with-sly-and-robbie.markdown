@@ -3,7 +3,7 @@ title: Mykal Rose with Sly & Robbie
 date: 2019-03-25 13:31:00 -04:00
 position: 0
 info:
-  image: "/uploads/Mykal%20Rose%20-%20Sly%20&%20Robbie_100.jpg"
+  image: "/uploads/Mykal%20Rose%20-%20Sly%20&%20Robbie%20101.jpg"
   name: Mykal Rose with Sly and Robbie
 layout: artist
 ---
