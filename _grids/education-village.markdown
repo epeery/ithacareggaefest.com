@@ -6,7 +6,7 @@ position: 0
 
 ![New Roots Logo 2019.png](/uploads/New%20Roots%20Logo%202019.png)
 
-![Hydrilla Task Force.jpg](/uploads/Hydrilla%20Task%20Force.jpg)
+[![Hydrilla Task Force.jpg](/uploads/Hydrilla%20Task%20Force.jpg)](http://ccetompkins.org/environment/invasive-nuisance-species/aquatic-invasives/hydrilla/fighting-hydrilla-in-the-cayuga-lake-watershed/hydrilla-task-force-of-the-cayuga-lake-watershed)
 
 ![Friends of Stewart Park.jpg](/uploads/Friends%20of%20Stewart%20Park.jpg)
 
