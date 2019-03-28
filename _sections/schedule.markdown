@@ -8,4 +8,5 @@ info:
   file: schedule-section.liquid
 ---
 
-## Coming Soon!
+
+Coming Soon!
