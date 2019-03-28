@@ -1,5 +1,5 @@
 ---
-title: Sponsors
+title: Partners
 date: 2018-11-09 14:54:00 -05:00
 position: 13
 info:
@@ -8,7 +8,7 @@ info:
 ---
 
 # Sponsors
-## Music Sponsors
+## Music 
 ![Haunt IRF Logo_1.jpg](/uploads/Haunt%20IRF%20Logo_1.jpg)
 
-## Festival Sponsors
+## Festival Partners
