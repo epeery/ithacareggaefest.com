@@ -13,9 +13,9 @@ info:
 
 <iframe src="https://open.spotify.com/embed/user/85sesd9ls75zm0mzm9dncx3rt/playlist/6dKoEsKwpvHnpNETpKO1oI" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-## 2017 Recap Video
+## 2018 Recap Video
 
-<video src="/uploads/irf_2017.mp4" controls=""></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XjH9ILJFk14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Photo Gallery
 
