@@ -4,7 +4,7 @@ date: 2019-03-25 13:01:00 -04:00
 position: 6
 info:
   image: "/uploads/E.N%20Young_100.jpg"
-  name: E.N. Young
+  name: E.N Young
 layout: artist
 ---
 
