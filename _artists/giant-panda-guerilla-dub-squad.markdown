@@ -14,37 +14,9 @@ Formed in 2001 in Rochester, New York, Giant Panda Guerilla Dub Squad first rece
 
 **Links:**
 
-**Website**: http://livepanda.com/
-
-**Facebook**: https://www.facebook.com/giantpandadub
-
-**Twitter**: https://twitter.com/giantpandadub
-
-**Instagram**: https://www.instagram.com/giantpandadub/
-
-**Youtube**: https://www.youtube.com/user/giantpandadub
-
-**Hashtags:**
-
-Band: #GPGDS
-
-Album: #MakeItBetter
-
-**Videos:**
-
-"Signs" Official Video[ https://youtu.be/PPhGoiV6UgE](https://youtu.be/PPhGoiV6UgE)
+[LivePanda.com](http://livepanda.com/) :: [Facebook](https://www.facebook.com/giantpandadub) :: [Twitter](https://twitter.com/giantpandadub):: [Instagram](https://www.instagram.com/giantpandadub/) :: [YouTube](https://www.youtube.com/user/giantpandadub) :: [Spotify](http://smarturl.it/mblgo3) :: [SoundCloud](http://ow.ly/GtxS306hdmF) :: [iTunes](http://smarturl.it/z7hp63)
 
 
-"Live And Travel” Official Video[ https://youtu.be/ro6tvhQuB24](https://youtu.be/ro6tvhQuB24)
 
-**Audio:**
 
-Spotify:[ http://smarturl.it/mblgo3](http://smarturl.it/mblgo3)
 
-Soundcloud *Make It Better* Album:[ http://ow.ly/GtxS306hdmF](http://ow.ly/GtxS306hdmF)
-
-Soundcloud “Live And Travel” Single:[ http://smarturl.it/cf51g8](http://smarturl.it/cf51g8)
-
-Soundcloud “Gotta Make A Living” Single:[ http://ow.ly/3DZA303ArWT](http://ow.ly/3DZA303ArWT)
-
-**Buy Album: **iTunes:[ http://smarturl.it/z7hp63](http://smarturl.it/z7hp63)
