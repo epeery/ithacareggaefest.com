@@ -8,12 +8,11 @@ info:
 layout: artist
 ---
 
-The Crucials have been a staple of the Ithaca Music Scene for the greater part of a decade. Since its inception, the band has performed weekly in Ithaca and of recent has been spreading its wings by gaining an international presence within the global reggae scene. 
+The Crucials have been a staple of the Ithaca Music Scene for the greater part of a decade. Since its inception, the band has performed weekly in Ithaca and of recent has been spreading its wings by gaining an international presence within the global reggae scene.
 
 Members of the band are seen performing with John Brown's Body, Dispatch, Giant Panda Guerilla Dub Squad, Big Mean Sound Machine, Nahko and Medicine for the People, Thunder Body, Donna the Buffalo, The Comb Down, Galactic Escort Service, Sophistafunk, Road Man, Mosaic Foundation, Max Childs, Sim Redmond Band and more.
 
-
 LINKS
 
-[Facebook](https://www.facebook.com/crucialsreggae/) :: 
-[Instagram](https://www.instagram.com/th3crucials) 
+[Facebook](https://www.facebook.com/crucialsreggae/) ::
+[Instagram](https://www.instagram.com/th3crucials)
