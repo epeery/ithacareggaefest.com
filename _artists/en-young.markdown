@@ -20,12 +20,8 @@ Construction of E.N’s studio, Imperial Sound Recording Studio took place in Au
 
 E.N Young is continuing to make sweet reggae music in his studio producing tracks for several bands and Roots Musician Records signed artists, including Gonzo, Leilani Wolfgramm, Tatanka, Mystic Roots Band, Clear Conscience, Revival, Animo, Inna Vision and Skanks Roots projects. He released his sophomore album ‘Live, Love, Stay Up’ in January of 2015 which consisted of 27 tracks including acoustic and dub versions. The album featured Tribal Seeds, Maad T-Ray (Of Tribal Seeds), Kali Navales and Jah Gumby (of Ooklah The Moc) and Gonzo. E.N recently released his newest album ‘Call On Me’ in April 2016 with it debuting at #3 on Itunes reggae charts. To E.N Young, ‘Call On Me’ is his most artistic and free album so far and he believes it will be a bridge for new reggae listeners as well as a continuing foundation for roots lovers. E.N Young's main goal continues to be, to travel the world spreading good through music and inspiring others.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-knhKimtvxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **LINKS**
 
-**WEBSITE: **[https://www.rootsmusician.com/en-young](https://www.rootsmusician.com/en-young)
-
-**FACEBOOK: **[https://www.facebook.com/E.Nyoung7/](https://www.facebook.com/E.Nyoung7/)
-
-**INSTAGRAM:** [https://www.instagram.com/e_n_young/](https://www.instagram.com/e_n_young/)
-
-**YOUTUBE:** [https://youtu.be/-knhKimtvxs](https://youtu.be/-knhKimtvxs), [https://youtu.be/rwlh2Is7KaQ](https://youtu.be/rwlh2Is7KaQ), [https://youtu.be/yDFg0Z-sCL4](https://youtu.be/yDFg0Z-sCL4)
+[Official Website](https://www.rootsmusician.com/en-young) :: [Facebook](https://www.facebook.com/E.Nyoung7/ :: [Instagram](https://www.instagram.com/e_n_young/) 
