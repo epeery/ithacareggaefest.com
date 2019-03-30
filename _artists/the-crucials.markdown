@@ -14,5 +14,6 @@ Members of the band are seen performing with John Brown's Body, Dispatch, Giant 
 
 
 LINKS
-Facebook: [https://www.facebook.com/crucialsreggae/](https://www.facebook.com/crucialsreggae/)
-Instagram: [https://www.instagram.com/th3crucials](https://www.instagram.com/th3crucials)
+
+[Facebook](https://www.facebook.com/crucialsreggae/) :: 
+[Instagram](https://www.instagram.com/th3crucials) 
