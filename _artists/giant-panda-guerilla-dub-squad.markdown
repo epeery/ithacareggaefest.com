@@ -12,7 +12,6 @@ Formed in 2001 in Rochester, New York, Giant Panda Guerilla Dub Squad first rece
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PjuIvOQ2yJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Links:**
 
 [LivePanda.com](http://livepanda.com/) :: [Facebook](https://www.facebook.com/giantpandadub) :: [Twitter](https://twitter.com/giantpandadub):: [Instagram](https://www.instagram.com/giantpandadub/) :: [YouTube](https://www.youtube.com/user/giantpandadub) :: [Spotify](http://smarturl.it/mblgo3) :: [SoundCloud](http://ow.ly/GtxS306hdmF) :: [iTunes](http://smarturl.it/z7hp63)
 
