@@ -19,12 +19,10 @@ Originally hailing from Chicago, Van Martin rounds out the lineup on guitar.  Ma
 
 The band has appeared at many clubs and festivals throughout New England.  They've won a Boston Music Award, were named "One of 10 Local Acts You Need To Hear Now" by The Improper Bostonian and have one of the most popular and longest running weekly residencies in Boston.  Dub Apocalypse released their first CD, "Road To Oblivion" in March 2015.  The CD release will be followed by an International release on vinyl through Mnemonic Dojo Records out of the UK.
 
-LINKS
-WEBSITE: http://dubapocalypse.com/index.html
-FACEBOOK: https://www.facebook.com/DubApocalypse/
-TWITTER:
-INSTAGRAM:
-YOUTUBE:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o9fsLWTxZDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-VIDEOS
-https://youtu.be/o9fsLWTxZDI
+LINKS
+[Official Website](http://dubapocalypse.com/index.html):: [Facebook](http://dubapocalypse.com/index.html)
+
+
+
