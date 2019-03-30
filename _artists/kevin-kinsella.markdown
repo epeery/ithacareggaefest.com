@@ -16,12 +16,8 @@ During this time, Kinsella released two solo albums, acoustic folk-leaning I-Tow
 
 Continuing to record and perform with 10 Ft. Ganja Plant, Kinsella’s third solo album, Great Design, was released by ROIR in 2011. His fourth solo album, Riding Higher, arrived in 2014 on I-Town, with worldwide distribution through VP. \~ Paul Simpson, Rovi.
 
-**LINKS**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EL2HDxO1-OQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**WEBSITE: **[http://kevinkinsellamusic.net/](http://kevinkinsellamusic.net)
 
-**FACEBOOK: **[https://www.facebook.com/kevinkinsellamusic/](https://www.facebook.com/kevinkinsellamusic/)
 
-**INSTAGRAM: **[https://www.instagram.com/kevinkinsellamusic/](https://www.instagram.com/kevinkinsellamusic/)
-
-**YOUTUBE: **[https://youtu.be/EL2HDxO1-OQ](https://youtu.be/EL2HDxO1-OQ), [https://youtu.be/xTWeo826AlA](https://youtu.be/xTWeo826AlA),
+[Official Website](http://kevinkinsellamusic.net/) :: [Facebook](https://www.facebook.com/kevinkinsellamusic/) :: [Instagram](https://www.instagram.com/kevinkinsellamusic/) :: [YouTube](https://www.youtube.com/channel/UCERUjs2PdMJDEzEEQx4-ALw)
