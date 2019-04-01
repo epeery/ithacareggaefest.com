@@ -14,4 +14,4 @@ info:
 
 ![Trini Style.jpg](/uploads/Trini%20Style.jpg)
 
-[![cayuga_lake_creamery_floating_logo.png](/uploads/cayuga_lake_creamery_floating_logo.png)](http://cayugalakecreamery.com/)(http://cayugalakecreamery.com/)
+[![cayuga_lake_creamery_floating_logo.png](/uploads/cayuga_lake_creamery_floating_logo.png)](http://cayugalakecreamery.com/)
