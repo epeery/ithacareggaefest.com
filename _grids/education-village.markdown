@@ -18,7 +18,7 @@ position: 0
 
 [![CSI.png](/uploads/CSI.png)](http://www.communityscience.org/)
 
-[![CLWN Logo.jpg](/uploads/CLWN%20Logo.jpg)]
+[![CLWN Logo.jpg](/uploads/CLWN%20Logo.jpg)](https://www.cayugalake.org/)
 
 [![Cayuga Waterfront Trail.jpg](/uploads/Cayuga%20Waterfront%20Trail.jpg)](https://www.cayugalake.org/)
 
