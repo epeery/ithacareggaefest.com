@@ -1,7 +1,7 @@
 ---
 title: Tickets
 date: 2018-11-09 14:58:00 -05:00
-position: 3
+position: 5
 info:
   file: tickets-section.liquid
   hide-in-nav: true
