@@ -1,7 +1,6 @@
 ---
 title: Festival Guidelines
 date: 2018-11-09 17:27:00 -05:00
-published: false
 position: 10
 info:
   file: information-section.liquid
