@@ -7,7 +7,7 @@ layout: default
 
   {% assign sorted_sections = site.sections | sort:"position" %}
   {% for section in sorted_sections %}
-    {% if section.hidden != true %}
+    {% if section.published != false %}
       {% include {{ section.info.file }} %}
     {% endif %}
   {% endfor %}
