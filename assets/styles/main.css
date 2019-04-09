@@ -93,7 +93,7 @@ h2 {
   bottom: 0;
   left: 0;
   background-color: #FFFFFF;
-  z-index: 1.0000000000000001e+29;
+  z-index: 999999999999;
   display: flex;
   justify-content: center;
   align-items: center;
