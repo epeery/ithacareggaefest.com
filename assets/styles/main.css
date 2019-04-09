@@ -711,6 +711,7 @@ header div {
   align-items: center;
   padding: 5vw 0;
   z-index: 0;
+  overflow: hidden;
 }
 .mission .mission-logo {
   width: 15rem;
