@@ -512,6 +512,9 @@ header div {
 .tickets p {
   text-align: left;
 }
+.tickets hr {
+  visibility: hidden;
+}
 .tickets table {
   width: 100%;
 }
