@@ -1,7 +1,6 @@
 ---
 title: Wellness Village
 date: 2018-11-08 11:48:00 -05:00
-published: false
 position: 7
 info:
   title: Wellness Village
