@@ -230,18 +230,23 @@ a
       font-family: $font-bold
     &:hover
       color: $red
-header
+
+.slider
   width: 100vw
-  height: calc((100vw / (16/9)) - #{$nav-height})
-  max-height: calc(100vh - #{$nav-height})
+  height: calc((100vw / (16/9)))
+  max-height: calc(100vh)
   position: relative
   background-size: cover
   background-position: center
   background-repeat: no-repeat
   overflow-y: hidden
   z-index: 0
+  @media (min-width: 74rem)
+    height: calc((100vw / (16/9)) - #{$nav-height})
+    max-height: calc(100vh - #{$nav-height})
   div
     height: 100%
+
 .header-slider-item
   width: 100vw
   grid-template-columns: 2fr 6fr 7fr 2fr 2fr 1fr
