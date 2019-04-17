@@ -21,7 +21,6 @@ Friday June 28th (Official Fest Pre-Party @ The Haunt)
 **Rockmon**
 **Solar Lion**
 
-
 Saturday June 29th (Main Event @ Stewart Park)
 
 **Mykal Rose with Sly & Robbie**
@@ -34,8 +33,6 @@ Saturday June 29th (Main Event @ Stewart Park)
 **The Analogue Sons**
 **Cayuga Nation**
 
-**
-**
 
 Saturday June 29th (Official Fest After-Party @ The Haunt)
 
