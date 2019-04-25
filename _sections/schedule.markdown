@@ -8,26 +8,26 @@ info:
 ---
 
 Saturday June 8th (FYAH IPA Release Party @ Ithaca Beer Co.)
-Thousands of One
+**Thousands of One**
 
 Friday June 28th (Official Fest Pre-Party @ The Haunt)
-DJ ha-MEEN
-DJ Ziggy
-Proper Filth
-Evo Evolution
-Rockmon
-Solar Lion
+**DJ ha-MEEN**
+**DJ Ziggy**
+**Proper Filth**
+**Evo Evolution**
+**Rockmon**
+**Solar Lion**
 
 Saturday June 29th (Main Event @ Stewart Park)
-Mykal Rose with Sly & Robbie
-Giant Panda Guerrilla Dub Squad
-Kevin Kinsella
-Double Tiger
-E.N Young
-Dub Apocalypse
-Cha Cha & The Medicinals
-The Analogue Sons
-Cayuga Nation
+**Mykal Rose with Sly & Robbie**
+**Giant Panda Guerrilla Dub Squad**
+**Kevin Kinsella**
+**Double Tiger**
+**E.N Young**
+**Dub Apocalypse**
+**Cha Cha & The Medicinals**
+**The Analogue Sons**
+**Cayuga Nation**
 
 Saturday June 29th (Official Fest After-Party @ The Haunt)
-The Crucials (w/s/g)
+**The Crucials (w/s/g)**
