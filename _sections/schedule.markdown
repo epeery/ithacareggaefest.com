@@ -27,7 +27,7 @@ info:
 
 ---
 
-| Saturday June 29th (Main Event @ Stewart Park)         |                   |
+|Saturday June 29th (Main Event @ Stewart Park)         |                   |
 |---------------------------|------------------:|
 | Mykal Rose with Sly & Robbie   |                   |
 | Giant Panda Guerrilla Dub Squad  |                   |
