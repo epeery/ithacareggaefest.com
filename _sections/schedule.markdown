@@ -34,6 +34,7 @@ Event dates, pre-parties, after-parties, venue locations, etc.
 | Double Tiger         |         |
 | E.N Young            |         |
 | Dub Apocalypse       |         |
+| Cha Cha & The Medicinals |     |
 | The Analogue Sons    |         |
 | Cayuga Nation        |         |
 
