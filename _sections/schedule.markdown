@@ -12,7 +12,7 @@ Event dates, pre-parties, after-parties, venue locations, etc.
 | Saturday June 8th (FYAH IPA Release Party @ Ithaca Beer Co.)| June 8th |
 |-------------------------------------|--------:|
 | (122 Ithaca Beer Dr, Ithaca, NY 14850)  |         |
-| Thousands of One                            |         |
+| Thousands of One                        |         |
 
 
 | Official Fest Pre-Party @ The Haunt                                                                  | June 28 |
