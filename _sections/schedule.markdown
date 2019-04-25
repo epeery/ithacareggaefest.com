@@ -7,7 +7,9 @@ info:
   file: schedule-section.liquid
 ---
 
-| Saturday June 8th (FYAH IPA Release Party @ Ithaca Beer Co.)            |                   |
+
+
+|Saturday June 8th (FYAH IPA Release Party @ Ithaca Beer Co.)            |                   |
 |------------------------|------------------:|
 | Thousands of One       |                   |
 
