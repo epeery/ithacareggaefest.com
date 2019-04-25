@@ -8,31 +8,26 @@ info:
   file: schedule-section.liquid
 ---
 
-| Saturday June 8th (FYAH IPA Release Party @ Ithaca Beer Co.)  |
-|------------------------------------------------------------:|
-|                       Thousands of One                        |
-|                                                               |
-|    Friday June 28th (Official Fest Pre-Party @ The Haunt)     |
-|------------------------------------------------------------:|
-|                          DJ ha-MEEN                           |
-|                           DJ Ziggy                            |
-|                         Proper Filth                          |
-|                           Evolution                           |
-|                            Rockmon                            |
-|                          Solar Lion                           |
-|                                                               |
-|        Saturday June 29th (Main Event @ Stewart Park)         |
-|------------------------------------------------------------:|
-|                 Mykal Rose with Sly & Robbie                  |
-|                Giant Panda Guerrilla Dub Squad                |
-|                        Kevin Kinsella                         |
-|                         Double Tiger                          |
-|                           E.N Young                           |
-|                        Dub Apocalypse                         |
-|                   Cha Cha & The Medicinals                    |
-|                       The Analogue Sons                       |
-|                         Cayuga Nation                         |
-|                                                               |
-|  Saturday June 29th (Official Fest After-Party @ The Haunt)   |
-|------------------------------------------------------------:|
-|                     The Crucials (w/s/g)                      |
+Event dates, pre-parties, after-parties, venue locations, etc.
+
+| Festival Kick Off Party @ The Haunt | June 22 |
+|-------------------------------------|--------:|
+| **(702 Willow Ave, Ithaca, NY 14850)**  |         |
+| Doors: 6pm, Show: 7pm               |         |
+| 7:00pm: DJ ha-MEEN                  |         |
+| 7:30pm: The Analogue Sons           |         |
+| 8:30pm: DJ ha-MEEN                  |         |
+| 9:00pm: Root Shock                  |         |
+| 10:30pm: DJ ha-MEEN                 |         |
+| 11:00pm: Big Mean Dub Machine       |         |
+
+| Celebration @ Stewart Park                                                                  | June 23 |
+|---------------------------------------------------------------------------------------------|--------:|
+| (1 James L Gibbs Dr, Ithaca, NY 14850)                                                      |         |
+| Gate: 10:30am, Show: 11am                                                                   |         |
+| 11:00am: Cayuga Nation Cultural Presentation w/ singing, dancing, & speakers (Cayuga Stage) |         |
+| 12:00pm: Thousands of One (Main Stage)                                                      |         |
+| 12:50pm: Rebel Fire (Education Village)                                                     |         |
+| 1:20pm: Crucial Reggae Social Club (Main Stage)                                             |         |
+| 2:00pm: DJ Kamau Preston (Leslie Puryear Stage)                                             |         |
+| 2:30pm: Mosaic Foundation (Main Stage)                                                      |         |
