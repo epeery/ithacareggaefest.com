@@ -11,7 +11,7 @@ Event dates, pre-parties, after-parties, venue locations, etc.
 
 | Saturday June 8th (FYAH IPA Release Party @ Ithaca Beer Co.)| June 8th |
 |-------------------------------------|--------:|
-| **(122 Ithaca Beer Dr, Ithaca, NY 14850)**  |         |
+| (122 Ithaca Beer Dr, Ithaca, NY 14850)  |         |
 | Thousands of One                            |         |
 
 
@@ -27,7 +27,7 @@ Event dates, pre-parties, after-parties, venue locations, etc.
 
 | Main Event @ Stewart Park    | June 29 |
 |-------------------------------------|--------:|
-| **(1 James L Gibbs Dr, Ithaca, NY 14850)**  |         |
+| (1 James L Gibbs Dr, Ithaca, NY 14850)  |         |
 | Giant Panda Guerrilla Dub Squad  |         |
 | Kevin Kinsella       |         |
 | Double Tiger         |         |
