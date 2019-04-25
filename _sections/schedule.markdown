@@ -9,7 +9,7 @@ info:
 
 
 
-|Saturday June 8th (FYAH IPA Release Party @ Ithaca Beer Co.)            |                   |
+|Saturday June 8th (FYAH IPA Release Party @ Ithaca Beer Co.)|      |
 |------------------------|------------------:|
 | Thousands of One       |                   |
 
@@ -40,6 +40,6 @@ info:
 
 ---
 
-|Saturday June 29th (Official Fest After-Party @ The Haunt)         |                   |
+|Saturday June 29th (Official Fest After-Party @ The Haunt)|  |
 |---------------------------|------------------:|
 | The Crucials (with special guests)        |                   |
