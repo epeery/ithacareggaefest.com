@@ -28,7 +28,7 @@ Event dates, pre-parties, after-parties, venue locations, etc.
 | Main Event @ Stewart Park    | June 29 |
 |-------------------------------------|--------:|
 | (1 James L Gibbs Dr, Ithaca, NY 14850)  |         |
-| Mykal Rose with Sly & Robbie |          |
+| Mykal Rose with Sly & Robbie     |         |
 | Giant Panda Guerrilla Dub Squad  |         |
 | Kevin Kinsella       |         |
 | Double Tiger         |         |
