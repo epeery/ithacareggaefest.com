@@ -24,6 +24,6 @@ info:
 
 ---
 
-| Day Of Price        |                   |
+| Day Of Price              |                   |
 |---------------------------|------------------:|
 | $40 Saturday Only         |                   |
