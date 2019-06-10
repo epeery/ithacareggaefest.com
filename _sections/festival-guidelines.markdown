@@ -33,3 +33,5 @@ info:
 * No dogs allowed in the Stewart Park Venue (dogs are allowed outside the gate in Stewart Park)
 
 * No weapons, fireworks or explosives of any kind allowed (all bags will be searched)
+
+* On-site camping is not available. Ithaca Reggae Fest takes place at Stewart Park in Ithaca, NY.  Unfortunately, this park is only open during daylight hours and does not have options for camping. However, you may find information about camping in and around Ithaca [here](https://www.visitithaca.com/lodging/camping). Alternatively, you can find information about other lodging options, such as hotels or B&Bs, [here](https://www.visitithaca.com/lodging/?gclid=CMb-9Ln51-ICFRHwwAodR58G5w).  
