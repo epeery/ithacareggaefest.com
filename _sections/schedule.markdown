@@ -18,12 +18,12 @@ Event dates, pre-parties, after-parties, venue locations, etc.
 | Official Fest Pre-Party @ The Haunt                                                                  | June 28 |
 |--------------------------------------|--------:|
 | (702 Willow Ave, Ithaca, NY 14850) |         |
-| DJ ha-MEEN            |         |
-| DJ Ziggy              |         |
-| Proper Filth          |         |
-| Evo Evolution         |         |
-| Rockmon               |         |
-| Solar Lion            |         |
+| 9:00pm-1:00am   |Solar Lion         |
+| 9:00pm-1:00am | Rockmon         |
+| 9:00pm-1:00am| Evo Evolution        |
+| 9:00pm-1:00am     | Proper Filth        |
+| 9:00pm-1:00am   | DJ Ziggy         |
+| 9:00pm-1:00am     |   DJ ha-MEEN      |
 
 | Main Event @ Stewart Park    | June 29 |
 |-------------------------------------|--------:|
