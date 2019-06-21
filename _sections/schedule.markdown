@@ -15,7 +15,7 @@ Event dates, pre-parties, after-parties, venue locations, etc.
 | Thousands of One                        |         |
 
 
-| Official Fest Pre-Party @ The Haunt                                                                  | June 28 |
+| Official Fest Pre-Party @ The Haunt                                                                  | Friday June 28 |
 |--------------------------------------|--------:|
 | (702 Willow Ave, Ithaca, NY 14850) |         |
 | Solar Lion   |   9:00pm-1:00am      |
@@ -26,7 +26,7 @@ Event dates, pre-parties, after-parties, venue locations, etc.
 | DJ ha-MEEN     |  9:00pm-1:00am       |
 
 
-| Main Event @ Stewart Park    | June 29 |
+| Main Event @ Stewart Park    | Saturday June 29 |
 |-------------------------------------|--------:|
 | (1 James L Gibbs Dr, Ithaca, NY 14850)  |         |
 | Cayuga Nation     | 11:00-12:00pm|      
