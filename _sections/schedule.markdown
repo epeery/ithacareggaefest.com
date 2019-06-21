@@ -31,7 +31,7 @@ Event dates, pre-parties, after-parties, venue locations, etc.
 | (1 James L Gibbs Dr, Ithaca, NY 14850)  |         |
 | Cayuga Nation     | 11:00am-12:00pm|      
 | Cha Cha & The Medicinals | 12:00pm-12:50pm | 
-| TBA | 1:00-2:00pm |    
+| Dub Apocalypse | 1:10-2:00pm |    
 | The Analougue Sons*   | 2:00-2:30pm        |   
 | E.N Young | 2:30-3:30pm    |         
 | The Analougue Sons* | 3:30-4:00pm| 
