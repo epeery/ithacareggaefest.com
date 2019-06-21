@@ -30,16 +30,19 @@ Event dates, pre-parties, after-parties, venue locations, etc.
 |-------------------------------------|--------:|
 | (1 James L Gibbs Dr, Ithaca, NY 14850)  |         |
 | Cayuga Nation     | 11:00am-12:00pm|      
-| Cha Cha & The Medicinals | 12:00pm-12:50pm |     
-| ^The Analougue Sons   | 2:00-2:30pm        |   
+| Cha Cha & The Medicinals | 12:00pm-12:50pm | 
+| TBA | 1:00-2:00pm |    
+| The Analougue Sons*   | 2:00-2:30pm        |   
 | E.N Young | 2:30-3:30pm    |         
-| ^The Analougue Sons | 3:30-4:00pm| 
+| The Analougue Sons* | 3:30-4:00pm| 
 | Double Tiger  | 4:00-5:00pm     |    
-| ^The Analougue Sons | 5:00-5:30pm    | 
+| The Analougue Sons* | 5:00-5:30pm    | 
+| Kevin Kinsella | 5:30-6:30pm    |
+| The Analougue Sons* | 6:30-7:00pm    |
 | Giant Panda Guerilla Dub Squad |7:00-8:00pm |  
-| ^The Analougue Sons  | 8:00-8:30pm         |   
+| The Analougue Sons*  | 8:00-8:30pm         |   
 | Mykal Rose w/ Sly & Robbie |8:30-10:00pm | 
-|  | (^Intermission Sets on Leslie Puryear Stage)  | 
+|  | (*Changeover Sets on Leslie Puryear Stage)  | 
 
 
 | Official Fest After-Party @ The Haunt                                                                  | June 29 |
