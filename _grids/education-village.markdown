@@ -23,3 +23,5 @@ position: 0
 [![Cayuga Waterfront Trail.jpg](/uploads/Cayuga%20Waterfront%20Trail.jpg)](https://www.cayugalake.org/)
 
 [![CLEAN Cayuga Lake.png](/uploads/CLEAN%20Cayuga%20Lake.png)](https://cleancayugalake.org/)
+
+![GutterLogic-Logo.jpg](/uploads/GutterLogic-Logo.jpg)](https://www.gutterlogic.com/)
