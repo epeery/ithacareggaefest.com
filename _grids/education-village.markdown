@@ -24,4 +24,4 @@ position: 0
 
 [![CLEAN Cayuga Lake.png](/uploads/CLEAN%20Cayuga%20Lake.png)](https://cleancayugalake.org/)
 
-![GutterLogic-Logo.jpg](/uploads/GutterLogic-Logo.jpg)](https://www.gutterlogic.com/)
+[![GutterLogic-Logo.jpg](/uploads/GutterLogic-Logo.jpg)](https://www.gutterlogic.com/)
