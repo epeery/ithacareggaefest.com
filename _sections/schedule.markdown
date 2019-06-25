@@ -19,9 +19,9 @@ Event dates, pre-parties, after-parties, venue locations, etc.
 | (702 Willow Ave, Ithaca, NY 14850) |         |
 | West Indian Flavor Food Service | 7:00pm-12:00am |
 |     |     |
-| **Selector Sound Clash** |
-| Solar Lion-Rockmon-Evo Evolution |
-|Proper Philth- DJ Ziggy-DJ ha-MEEN |
+| **Selector Sound Clash Featuring:** |
+| Solar Lion - Rockmon - Evo Evolution |
+|Proper Philth - DJ Ziggy - DJ ha-MEEN |
 
 |DJ's will be performing alternating sets back to back | |
 |DJ 30 minute sets | 7:00pm-10:00pm|
