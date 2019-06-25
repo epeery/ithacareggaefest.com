@@ -8,8 +8,6 @@ info:
   grid: Education Village
 ---
 
-![IRF Skateboard Flyer.jpg](/uploads/IRF%20Skateboard%20Flyer.jpg)
-
 # Information
 
 ## Education Village
