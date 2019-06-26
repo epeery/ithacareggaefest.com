@@ -17,16 +17,16 @@ Event dates, pre-parties, after-parties, venue locations, etc.
 | Official Fest Pre-Party @ The Haunt                                                                  | Friday June 28 |
 |--------------------------------------|--------:|
 | (702 Willow Ave, Ithaca, NY 14850) |         |
-| West Indian Flavor Food Service | 7:00pm-12:00am |
 |     |     |
-| **Selector Sound Clash Featuring:** |
-| Solar Lion - Rockmon - Evo Evolution |
-|Proper Philth - DJ Ziggy - DJ ha-MEEN |
+|  | Selector DJ Sound Clash (left justified) 7:00pm-1:00am|
+| Inspired by legendary Jamaican dancehalls, Ithaca Reggae Fest is proud to host the DJ Selector Sound Clash to kick off the festival on Friday night!|
 
-|DJ's will be performing alternating sets back to back | |
-|DJ 30 minute sets | 7:00pm-10:00pm|
-|DJ 10 minute sets | 10:00pm-11:00pm |
-|Alternating song for song selector battle |11:00pm-1:00am|
+|Spanning all genres of Reggae, from Dancehall to Ragga, Rub-a-dub to Roots, Reggaeton to... a few surprises, the Friday night Sound Clash promises to move your body with mashups between Team DJ ha-MEEN, DJ Evo Evolution, DJ Rockmon -- and Team DJ Ziggy, Proper Philth, DJ SolarLion!|
+
+|The Sound Clash will be MC'd by Mike Judah of Reggae Explosions (LIVE Thursday Mornings on WICB.org) and SistaAna.|
+
+| West Indian Flavor Food Service | 7:00pm-12:00am |
+
 
 | Main Event @ Stewart Park    | Saturday June 29 |
 |-------------------------------------|--------:|
