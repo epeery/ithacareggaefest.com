@@ -21,11 +21,11 @@ Event dates, pre-parties, after-parties, venue locations, etc.
 |Selector DJ Sound Clash  |  7:00pm-1:00am|
 
 ------------
-Inspired by legendary Jamaican dancehalls, Ithaca Reggae Fest is proud to host the DJ Selector Sound Clash to kick off the festival on Friday night!
+|Inspired by legendary Jamaican dancehalls, Ithaca Reggae Fest is proud to host the DJ Selector Sound Clash to kick off the festival on Friday night!
 
 Spanning all genres of Reggae, from Dancehall to Ragga, Rub-a-dub to Roots, Reggaeton to... a few surprises, the Friday night Sound Clash promises to move your body with mashups between Team DJ ha-MEEN, DJ Evo Evolution, DJ Rockmon - and Team DJ Ziggy, Proper Philth, DJ SolarLion!
 
-The Sound Clash will be MC'd by Mike Judah of Reggae Explosions (LIVE Thursday Mornings on WICB.org) and SistaAna.
+The Sound Clash will be MC'd by Mike Judah of Reggae Explosions (LIVE Thursday Mornings on WICB.org) and SistaAna.|
 ------------
 
 | West Indian Flavor Food Service | 7:00pm-12:00am |
